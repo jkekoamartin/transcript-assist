@@ -58,15 +58,7 @@ class Search:
         trash = {}
         complete = {}
 
-        # every doc or docx
         files = glob_search.rglob('*' + self.ext_2)
-
-        # every pdf
-
-        # clean dups first
-        # this only stores one of each doc
-
-        # need to clean out dups in to_search
 
         for file in files:
             string = str(file.name)
@@ -179,19 +171,20 @@ if __name__ == "__main__":
         cwd = os.getcwd()
         run_default(".pdf", ".docx", cwd)
 
-    elif len(sys.argv[1:]) == 4:
-        ext_1, ext_2, search, search_path = sys.argv[1:]
+    elif len(sys.argv[1:]) == 3:
+        ext_1, ext_2, search_path = sys.argv[1:]
         print("Searching for " + ext_1 + "," + ext_2 + " pairs" + "in " + search_path)
         run_default(ext_1, ext_2, search_path)
 
-    elif len(sys.argv[1:]) == 3:
+    elif len(sys.argv[1:]) == 2:
         cwd = os.getcwd()
-        ext_1, ext_2, search = sys.argv[1:]
+        ext_1, ext_2 = sys.argv[1:]
         print("Searching for " + ext_1 + "," + ext_2 + " pairs" + "in " + cwd)
         run_default(ext_1, ext_2, cwd)
 
     else:
-        print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchterms searchdirectory")
+        print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchdirectory', or run with out "
+              "argumentd for default program parameters: [.pdf .docx CurrentDirectoryPath]")
 
 stop = timeit.default_timer()
 
