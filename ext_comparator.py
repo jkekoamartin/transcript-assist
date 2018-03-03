@@ -1,9 +1,11 @@
+import csv
 import os
 import shutil
 import sys
-import pathlib
-import re
-import fnmatch
+import timeit
+from pathlib import Path
+
+start = timeit.default_timer()
 
 
 # Code by James Martin, Emory University
@@ -18,23 +20,19 @@ class Paths:
         #
         self.complete = {}
         # dict of incomplete items and their path
-        self.incomplete = {}
+        self.incomplete = []
 
 
 class Search:
 
-    def __init__(self, ext_1, ext_2, search, search_path):
-        self.search_path = search_path
-        self.search = search
-        self.ext_1 = ext_1
-        self.ext_2 = ext_2
+    def __init__(self, s_ext_1, s_ext_2, s_search_path):
+        self.search_path = s_search_path
+        self.ext_1 = s_ext_1
+        self.ext_2 = s_ext_2
 
         self.paths = Paths()
 
         # read from file, delimited by newline (enter/return)
-        search_terms = open(search).read().splitlines()
-
-        self.search_terms = search_terms
 
     # todo: implement class functions
     def dir_search(self):
@@ -44,89 +42,158 @@ class Search:
         search_paths = self.paths
         to_search = []
 
-        # replace ext_1 with ext_2 for search
-        for item in self.search_terms:
-            item = item.replace(self.ext_1, self.ext_2)
-            to_search.append(item)
+        # replace ext_1 with ext_2 for search, sanitizes irregular case .ext
+        glob_search = Path(self.search_path)
+        search_files = glob_search.rglob('*' + self.ext_1)
 
-        trash = search_paths.trash
-        complete = search_paths.complete
-        incomplete = search_paths.incomplete
+        for item in search_files:
+            p = Path(item)
+            item = str(p.stem) + self.ext_2
+            if item in to_search:
+                # don't add duplicate search terms
+                continue
+            else:
+                to_search.append(item)
 
-        files = find_all()
+        trash = {}
+        complete = {}
 
-        while to_search:
-            temp = to_search.pop()
+        # every doc or docx
+        files = glob_search.rglob('*' + self.ext_2)
 
-            for search_term in search_results:
-                print("LOL")
-                print(search_term)
+        # every pdf
 
-                # if search_term not in completed:
-                #     completed[search_term] = 1
-                # else:
-                #     completed[search_term] += 1
+        # clean dups first
+        # this only stores one of each doc
+
+        # need to clean out dups in to_search
+
+        for file in files:
+            string = str(file.name)
+            if string in to_search:
+                # if already complete, then it is duplicate
+                if file.name in complete:
+                    trash[file.name] = file
+                else:
+                    complete[file.name] = file
+
+        # check completion
+        for item in complete:
+            string = str(item)
+            to_search.remove(string)
+
+        search_paths.trash = trash
+        search_paths.complete = complete
+        # remove from search if complete, so to_search contains incomplete files
+        search_paths.incomplete = to_search
 
     def confirm(self):
         # asks for user to confirm delete
         search_items = self.paths
 
-        for item, path in search_items.trash:
-            print("File: " + item + " Location: " + path)
+        path = Path(self.search_path).joinpath('complete.csv')
 
-        command = input("Would you like to move these duplicate items to trash? (y/n)")
+        with open(path.absolute(), 'w', newline='') as csvfile:
+            fieldnames = ['File_Name', 'Path_To_File']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        if command is "y":
-            self.to_trash()
-        elif command is "n":
-            print("Okay, no changes have been made. Exiting program")
-            sys.exit()
+            writer.writeheader()
+
+            for complete in self.paths.complete:
+                writer.writerow({'File_Name': complete, 'Path_To_File': self.paths.complete[complete]})
+
+        path = Path(self.search_path).joinpath('incomplete.csv')
+        with open(path.absolute(), 'w', newline='') as csvfile:
+            fieldnames = ['File_Name']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+
+            for incomplete in self.paths.incomplete:
+                incomplete = str(Path(incomplete).stem) + self.ext_1
+
+                writer.writerow({'File_Name': incomplete})
+
+        if search_items.trash:
+            for item in search_items.trash:
+                path = search_items.trash[item]
+                print("File: " + item + " Location: " + str(path))
+
+            command = input("Would you like to move these duplicate items to junk file (in search directory)? (y/n)")
+
+            if command is "y":
+                pass
+            elif command is "n":
+                print("Okay, no changes have been made. You can check output.csv to see what files were duplicates. "
+                      "Exiting program")
+                sys.exit()
+            else:
+                print("Please input 'y' or 'n'")
+                self.confirm()
+        else:
+            print("No duplicates found!")
+            print("Check the outputs 'complete.csv' and 'incomplete.csv' to see which " + str(self.ext_1) + "s have " +
+                  str(self.ext_2)
+                  + " "
+                    "matches! They are stored in the directory being searched so that they don't get lost!")
+            print()
+            print("***Important*** The outputs 'complete.csv' and 'incomplete.csv' are overwritten each time the "
+                  "program is run.")
+            print("This prevents clutter, but to keep snapshots of the results, just move them out of the directory "
+                  "they are in. This will prevent the program from overwriting them with new ones!")
 
     def to_trash(self):
         trash_items = self.paths
+        p = Path(self.search_path).absolute()
+        p = Path(*p.parts[:len(p.parts) - 1]).joinpath("trash")
+        if p.exists():
+            pass
+        else:
+            p.mkdir(True, True)
 
-        shutil.move()
-        # sends junk data to trash
-        pass
+        for each in trash_items.trash:
+            f = Path(trash_items.trash[each]).absolute()
 
-
-# reference code
-# todo: delete what is not needed
-def find(name, path):
-    for root, dirs, files in os.walk(path):
-        if name in files:
-            return os.path.join(root, name)
-
-
-def find_all(name, path):
-
-    for x in path.rglob('*' + self.ext_1):
-
-
-cwd = os.getcwd()
+            # print(trash_items.trash[each])
+            shutil.move(str(f), str(p))
 
 
 # this runs default program arguments
 # todo: implement run mode with option flags
-def run_default(ext_1, ext_2, search, search_path):
-    search = Search(ext_1, ext_2, search, search_path)
+def run_default(in_ext_1, in_ext_2, in_search_path):
+    in_search = Search(in_ext_1, in_ext_2, in_search_path)
     # search all directories for a search file name, or check flag for batch search
     # regardless of extension.
     # store paths in dictionary
-    search.dir_search()
+    in_search.dir_search()
     # print confirmation to move to trash
-    search.confirm()
+    in_search.confirm()
     # move to trash
-    search.to_trash()
+    in_search.to_trash()
 
 
 if __name__ == "__main__":
     # check correct length args
     if len(sys.argv) == 1:
-        print("No arguments passed, running default mode. Default arguments: [.pdf .docx search.txt]")
-        run_default(".pdf", ".doc*", "search.txt", "C:/Users/James/Documents/transcripts")
-    elif len(sys.argv[1:]) == 2:
-        print("Searching for given extensions")
+        print("No arguments passed, running default mode. Default arguments: [.pdf .docx CurrentDirectoryPath]")
+        cwd = os.getcwd()
+        run_default(".pdf", ".docx", cwd)
+
+    elif len(sys.argv[1:]) == 4:
+        ext_1, ext_2, search, search_path = sys.argv[1:]
+        print("Searching for " + ext_1 + "," + ext_2 + " pairs" + "in " + search_path)
+        run_default(ext_1, ext_2, search_path)
+
+    elif len(sys.argv[1:]) == 3:
+        cwd = os.getcwd()
+        ext_1, ext_2, search = sys.argv[1:]
+        print("Searching for " + ext_1 + "," + ext_2 + " pairs" + "in " + cwd)
+        run_default(ext_1, ext_2, cwd)
 
     else:
-        print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchterms")
+        print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchterms searchdirectory")
+
+stop = timeit.default_timer()
+
+print()
+print("Results in " + str(stop - start) + " seconds")
