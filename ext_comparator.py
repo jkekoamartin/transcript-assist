@@ -2,10 +2,7 @@ import csv
 import os
 import shutil
 import sys
-import timeit
 from pathlib import Path
-
-start = timeit.default_timer()
 
 
 # Code by James Martin, Emory University
@@ -17,9 +14,9 @@ class Paths:
     def __init__(self):
         # dict that contains trash item name and its path
         self.trash = {}
-        #
+        # dict contains complete items and their path
         self.complete = {}
-        # dict of incomplete items and their path
+        # dict of incomplete items
         self.incomplete = []
 
 
@@ -106,6 +103,16 @@ class Search:
 
                 writer.writerow({'File_Name': incomplete})
 
+        path = Path(self.search_path).joinpath('duplicates.csv')
+        with open(path.absolute(), 'w', newline='') as csvfile:
+            fieldnames = ['File_Name', 'Path_To_File']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+
+            for trash in self.paths.trash:
+                writer.writerow({'File_Name': trash, 'Path_To_File': self.paths.trash[trash]})
+
         if search_items.trash:
             for item in search_items.trash:
                 path = search_items.trash[item]
@@ -147,7 +154,12 @@ class Search:
             f = Path(trash_items.trash[each]).absolute()
 
             # print(trash_items.trash[each])
-            shutil.move(str(f), str(p))
+            if f.exists():
+                f.joinpath("dupedagain")
+                shutil.move(str(f), str(p))
+            else:
+                shutil.move(str(f), str(p))
+        print("Files moved to trash (trash folder just outside working directory).")
 
 
 # this runs default program arguments
@@ -185,8 +197,3 @@ if __name__ == "__main__":
     else:
         print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchdirectory', or run with out "
               "argumentd for default program parameters: [.pdf .docx CurrentDirectoryPath]")
-
-stop = timeit.default_timer()
-
-print()
-print("Results in " + str(stop - start) + " seconds")
