@@ -93,7 +93,7 @@ class Search:
         for file in files:
             p = Path(file)
             item = str(p.stem)
-            if item in to_search:
+            if item in to_search and str(p.suffix).lower() != str(Path(self.ext_1)):
                 # if already complete, then it is duplicate
                 if file.name in complete:
                     duplicates[file.name] = file
@@ -144,34 +144,27 @@ class Search:
 
     def confirm(self):
         # asks for user to confirm delete
-        search_items = self.result_paths
 
-        if search_items.duplicates:
-            for item in search_items.duplicates:
-                path = search_items.duplicates[item]
-                print("File: " + item + " Location: " + str(path))
+        command = input("Would you like to copy the search results to the output folder? (y/n)")
 
-            command = input("Would you like to move these duplicate items to junk file (in search directory)? (y/n)")
-
-            if command is "y":
-                pass
-            elif command is "n":
-                print("Okay, no changes have been made. You can check output.csv to see what files were duplicates. "
+        if command is "y":
+            pass
+        elif command is "n":
+            print("Okay, no changes have been made. You can check output.csv to see what files were duplicates. "
                       "Exiting program")
-                sys.exit()
-            else:
-                print("Please input 'y' or 'n'")
-                self.confirm()
+            sys.exit()
         else:
-            print("No duplicates found!")
-            print("Check the outputs 'complete.csv' and 'incomplete.csv' to see which " + str(self.ext_1) + "s have " +
+            print("Please input 'y' or 'n'")
+            self.confirm()
+
+        print("Check the outputs 'complete.csv' and 'incomplete.csv' to see which " + str(self.ext_1) + "s have " +
                   str(self.ext_2)
                   + " "
                     "matches! They are stored in the directory being searched so that they don't get lost!")
-            print()
-            print("***Important*** The outputs 'complete.csv' and 'incomplete.csv' are overwritten each time the "
+        print()
+        print("***Important*** The outputs 'complete.csv' and 'incomplete.csv' are overwritten each time the "
                   "program is run.")
-            print("This prevents clutter, but to keep snapshots of the results, just move them out of the directory "
+        print("This prevents clutter, but to keep snapshots of the results, just move them out of the directory "
                   "they are in. This will prevent the program from overwriting them with new ones!")
 
     def move(self, output=None):
@@ -188,6 +181,8 @@ class Search:
 
         result_paths = self.result_paths
 
+
+        # this copies the duplicates into a duplicate folder in output
         for each in result_paths.duplicates:
             f = Path(result_paths.duplicates[each]).absolute()
 
@@ -201,7 +196,6 @@ class Search:
 
 
 # this runs default program arguments
-# todo: implement run mode with option flags
 def run_default(in_ext_1, in_ext_2, in_search_path):
     in_search = Search(in_ext_1, in_ext_2, in_search_path)
     # search all directories for a search file name, or check flag for batch search
@@ -225,7 +219,7 @@ if __name__ == "__main__":
         print("No arguments passed, running default mode. Default arguments: [.pdf .doc* CurrentDirectoryPath]")
         cwd = os.getcwd()
         # note: script accepts multiple search paths, so even single a search path is are passed in an array
-        run_default('.pdf', '.doc*', ["C:/Users/James/Documents/transcripts", "C:/Users/James/Documents/transcripts1"])
+        run_default('.pdf', '.*', ["C:/Users/James/Documents/transcripts", "C:/Users/James/Documents/transcripts1"])
 
     elif len(sys.argv[1:]) == 3:
         ext_1, ext_2, search_path = sys.argv[1:]
