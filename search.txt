@@ -12,34 +12,17 @@ Los Angeles Times_12-12-1886_1_1.pdf
 Los_Angeles_Times_07-24-1899_3_1.pdf
 Macon Telegraph_10-27-1911_4.pdf
 Nashville Tennessean_12-31-1915_1_1.pdf
-New York Tribune_11-19-1920_1_1.pdf
 New_York_Times_12-09-1900_16_1.pdf
-New_York_Times_12-25-1894_5_1.pdf
-Rocky Mountain News_07-30-1895_8.Pdf
-Rocky Mountain News_08-30-1891_12.Pdf
-Savannah_Courier_03-02-1893.pdf
-Southwestern Christian Advocate_02-12-1891.Pdf
-Southwestern Christian Advocate_02-21-1884.Pdf
-Southwestern Christian Advocate_02-24-1881.pdf
-Southwestern Christian Advocate_02-24-1881_2.pdf
-Southwestern Christian Advocate_02-26-1885_5.Pdf
-Southwestern Christian Advocate_03-19-1885_2.Pdf
-Southwestern Christian Advocate_06-17-1888_6.Pdf
-Southwestern Christian Advocate_06-21-1894_4.Pdf
-Southwestern Christian Advocate_09-12-1895.Pdf
-The Atlanta Constitution_02-24-1890_4.pdf
+Southwestern Christian Advocate_02-12-1891.pdf
+Southwestern Christian Advocate_02-21-1884.pdf
+Southwestern Christian Advocate_02-26-1885_5.pdf
+Southwestern Christian Advocate_03-19-1885_2.pdf
+Southwestern Christian Advocate_06-17-1888_6.pdf
+Southwestern Christian Advocate_09-12-1895.pdf
 The New York Times_10-29-1919_5_1.pdf
-The Vienna News_08_06_1904_1_3.pdf
-The Vienna Progress_03_23_1899_2_5.pdf
-The Vienna Progress_08_02_1900_1_1.pdf
-The Weekly Constitution_08_15_1882_3_4.pdf
-The Weekly Sumter Republican_03_30_1877_2_1.pdf
 The_Atlanta_Constitution_06-25-1924_20_1.pdf
 The_Butler_Herald_08-17-1915_1_1.pdf
 The_Sunny_South_08-13-1881_7.pdf
-Thomasville Daily Times-Enterprise_11-04-1893_3.pdf
-Thomasville_08_12_1899_4_3.pdf
-Tifton Gazette_03_25_1898_3_3.pdf
 Topeka_State_Journal_03-30-1896_2.pdf
 Valdosta TImes_08-15-1908_9.pdf
 Vienna News_07_03_1903_5_4.pdf
@@ -55,103 +38,16 @@ Weekly Times Recorder_10_12_1911_1_6.pdf
 Western_Kansas_World_06-15-1889_4.pdf
 Western_Kansas_World_12-22-1888.pdf
 Wheeling Register_12-23-1882_1.pdf
-The Atlanta Constitution_02-05-1890_3.pdf
-The Atlanta Constitution_02-07-1890_5.pdf
-The Atlanta Constitution_02-24-1890_4.pdf
-The Vienna News_08_06_1904_1_3.pdf
-The Vienna Progress_03_23_1899_2_5.pdf
-The Vienna Progress_04_27_1899_3_1.pdf
-The Vienna Progress_08_02_1900_1_1.pdf
-The Vienna Progress_08_24_1899_3_3.pdf
-The Weekly Constitution_08_15_1882_3_4.pdf
-The Galveston Daily News_08-09-1890_7.Pdf
-The Galveston Daily News_02-28-1889.Pdf
-St. Louis Globe-Democrat_08-20-1884_7.Pdf
-The Atchison Globe_08-22-1884.Pdf
-St. Louis Globe-Democrat_10-26-1878_2.Pdf
-The Daily Inter Ocean_07-26-1882_4.Pdf
-Southwestern Christian Advocate_12-08-1881.Pdf
-The Galveston Daily News_03-25-1879.Pdf
-The Atchison Daily Globe_03-12-1889.Pdf
-Rocky Mountain News_01-10-1884_4.Pdf
-St. Louis Glob-Democrat_01-11-1884_2.Pdf
-Century Illustrated Magazine_04-1885_909.pdf
-Chicago Daily Tribune_08-29-1927_1.pdf
-Chicago Daily Tribune_12-12-1912_9.pdf
-Daily Arkansas Gazette_05-22-1879.Pdf
-The_Watchman_and_Southron_05-21-1913.pdf
-The_Weekly_Clarion_05-21-1879_2.pdf
+Daily Arkansas Gazette_05-22-1879.pdf
 The_Weekly_Constitution_02-06-1883_1.pdf
 The_Weekly_constitution_09-18-1884_7.pdf
 The_Weekly_Democratic_Statesman_08-26-1875_2.pdf
-The_Wichita_Daily_Eagle_12-01-1887_6.pdf
-The_Wichita_Daily_Journal_01-20-1899_2.pdf
 Topeka_State_Journal_09-12-1901_8.pdf
 Topeka_State_Journao_02-16-1897_8.pdf
 Waco_Daily_Examiner_04-02-1885_2.pdf
-Chicago Daily Tribune_01-31-1913_8.pdf
-Chicago_Daily_Tribune_03-14-1901_4_1.pdf
-Chicago_Daily_Tribune_12-31-1898_20_1.pdf
-Daily Arkansas Gazette_07-08-1883.Pdf
-Daily Arkansas Gazette_11-06-1883.Pdf
-Detroit_Free_Press_03-14-1901_2_1.pdf
-Morning Oregonian_03-30-1890_6.Pdf
-Morning Oregonian_06-14-1890_6.Pdf
-Southwestern Christian Advocate_03-13-1890_5.Pdf
-St. Louis Globe-Democrat_06-29-1882_2.Pdf
-St. Louis Globe-Democrat_07-08-1883_4.Pdf
-St. Louis Globe-Democrat_08-16-1879_2.Pdf
-St. Louis Globe-Democrat_09-03-1884_3.Pdf
-St. Louis Globe-Democrat_11-08-1883_5.Pdf
-The Americus Times-Recorder_09_16_1898_5_1.pdf
-The Americus Times-Recorder_11_12_1895_1_5.pdf
-The Atchinson Daily Champion_03-27-1885.Pdf
-The Athens Banner_05-01-1894_4_4.pdf
-The Athens Banner_09-16-1898_5_2.pdf
-The Atlanta Constitution_06-26-1921_6.pdf
-The Atlanta Constitution_09-03-1895_3_1.pdf
-The Atlanta Constitution_10-6-1912_12_1.pdf
-The Atlanta Constitution_11-19-1920_4_1.pdf
-The Atlanta Daily Herald_09_05_1922_1_5.pdf
-The Atlanta Georgian_07_01_1907_1_1.pdf
-The Atlanta Georgian_07_28_1901_1_1.pdf
-The Atlanta Georgian_11_09_1906_8_2.pdf
-The Banner Watchman_08_23_1883_1_5.pdf
-The Cleveland Herald_02-28_1884.Pdf
-The Daily Times-Enterprise_01_17_1911_1_4.pdf
-The Daily Times-Enterprise_03_1_17_6_2.pdf
-The Denver Evening Post_12-20-1898_7.Pdf
-The Milan exchange_03-26-1887.pdf
-The Milwaukee Sentinel_06-27-1883_3.Pdf
-The New York Times_07-14-1882_2_6.pdf
-The Post-Search Light_07_31_1919_13_2.pdf
-The Sunny South_10_09_1880_4_4.pdf
-The Tifton Gazette_05_15_1896_1_3.pdf
-The Times-Enterprise_07_16_1915_1_4.pdf
-The Times-Enterprise_11_19_1920_1_2.pdf
-The Valdosta Times_09_14_1912_2_2.pdf
-The Vienna News_08_03_1904_1_3.pdf
-The Vienna News_09_08_1908_1_4.pdf
-The_Atlanta_Constitution_03-14-1901_2_1.pdf
-The_Atlanta_Constitution_08-16-1913_5_1.pdf
-The_Atlanta_Constitution_08-17_1913_14_1.pdf
-The_Atlanta_Constitution_12-09-1900_5_1.pdf
-The_Atlanta_Constitution_12-25-1894_1_5.pdf
-The_Atlanta_Constiution_08-30-1904_3_1.pdf
-The_Wheeling_Intelligencer_06-19-1899_1.pdf
-Topeka_State_Journal_03-06-1895_6.pdf
-Weekly Times Enterprise_09-28-1906_1_3.pdf
-St. Louis Globe-Democrat_03-19-1879_2.Pdf
-Rocky Mountain News_02-15-1884_3.Pdf
-Afro-American_07-04-1925_A1.pdf
-Afro-American_07-15-1899_4.pdf
-Atchison Daily Champion_08-18-1888.Pdf
-Atlanta_Georgian_09-12-1906_3.pdf
-Atlanta_Georgian_and_News_09-20-1907_6.pdf
-Atlanta_Georgian_and_News_12-28-1909_5.pdf
+The Milwaukee Sentinel_06-27-1883_3.pdf
 Boston Daily Globe_07-28-1913_1_1.pdf
 Columbus Daily Enquirer_04-10-1895_1.pdf
-Daily Times Enterprise_09_07_1892_1_4.pdf
 Daily Times-Enterprise_12_22_1919_4_5.pdf
 Daily Times-Enterprise_6_26_17_3_1.pdf
 Macon Telegraph_12-23-1882_1.pdf
@@ -171,18 +67,12 @@ New York Herald-Tribune_09-07-1936_18.pdf
 Pensacola (FL) Journal_08-01-1906_1.pdf
 Post Search Light_09_30_1920_4_4.pdf
 Project 12 Unfound Files Sheet1.pdf
-The Atlanta Constitution_05-25-1909_11_1.pdf
-The Atlanta Constitution_08-22-1898_3_1.pdf
-The Atlanta Constitution_08-27-1913_14_1.pdf
-The Milwaukee Sentinel_11-29-1890_4.Pdf
-The Washington Post_02-09-1890_4.pdf
+The Milwaukee Sentinel_11-29-1890_4.pdf
 The_Atlanta_Constitution_12-26-1886_6_1.pdf
 The_Atlanta_Constitution_12-31-1915_1_1.pdf
 The_Austin_Statesman_08-30-1903_1_1.pdf
 The_Austin_Statesman_09-25-1906_1_1.pdf
 The_Nashville_American_12-09-1900_20_1.pdf
-The_Pensacola_Journey_03-19-1905_12.pdf
-The_Pulaski_Citizen_05-09-1889_1.pdf
 The_Sunny_South_03-08-1884_8.pdf
 The_Sunny_South_04-15-1886_5.pdf
 The_Sunny_South_08-06-1897_6.pdf
@@ -190,67 +80,34 @@ The_Sunny_South_10-24-1903_6.pdf
 The_Sun_09-26-1906_1_1.pdf
 The_Tazewell_republican_10-26-1905.pdf
 The_Tazewell_Republican_11-02-1905_1.pdf
-The_Topeka_State_journal_10-26-1895_8.pdf
-The_True_Democrat_04-24-1909_3.pdf
 The_true_democrat_05-01-1909_2.pdf
-The_Union_Times_03-20-1903_4.pdf
 The_Washington_Post_02-09-1890.pdf
 The_Washington_Post_04-11-1909_3_1.pdf
 The_Washington_Post_08-30-1904_1_1.pdf
 Weekly Sumter Republican_09-22-1876_2_4.pdf
-The Daily Picayune_07-02-1890.Pdf
-St. Louis Globe-Democrat.Pdf
-The Atchinson Daily Globe_12-04-1884.Pdf
-Rocky Mountain News_10-05-1887.Pdf
-Salt Lake Semi-Weekly Tribune_01-14-1896_3.Pdf
-The Emporia Daily Gazette_01-14-1896.Pdf
-The Daily Picayune_12-15-1896_6.Pdf
-Rocky Mountain News_02-15-1884_3.1.Pdf
-St. Louis Globe-Democrat_11-24-1882_7.Pdf
-Milwaukee Daily Sentinel_06-05-1879_3.Pdf
-The Galveston Daily News_10-20-1882.Pdf
-Milwaukee Daily Sentinel_02-28-1882_3.Pdf
+The Daily Picayune_07-02-1890.pdf
+St. Louis Globe-Democrat.pdf
+The Atchinson Daily Globe_12-04-1884.pdf
+Rocky Mountain News_10-05-1887.pdf
+Salt Lake Semi-Weekly Tribune_01-14-1896_3.pdf
+The Emporia Daily Gazette_01-14-1896.pdf
+The Daily Picayune_12-15-1896_6.pdf
+Rocky Mountain News_02-15-1884_3.1.pdf
+St. Louis Globe-Democrat_11-24-1882_7.pdf
+The Galveston Daily News_10-20-1882.pdf
+Milwaukee Daily Sentinel_02-28-1882_3.pdf
 Abilene_Weekly_journal_01-02-1913.pdf
 Abilene_Weekly_Reflector-12-19-1912_1.pdf
 Abilene_Weekly_Reflector_11-25-1897_4.pdf
-Afro-American_03-09-1935_5.pdf
 Afro-American_05-07-1910_6.2.pdf
 Afro-American_05-07-1910_6.pdf
-Albany Weekly Herald_05_12_1900_7_4.pdf
-Americus Times Recorder_11_03_1899_1_5.pdf
-Americus TImes-Recorder_01-06-1905_3_5.pdf
-Americus Times-Recorder_02-17-1899_7_3.pdf
-Americus Times-Recorder_03-16-1901_1_1.pdf
-Americus Times-Recorder_07-03-1903_6_2.pdf
-Americus Times-Recorder_08-01-1902_1_3.pdf
 Americus Times-Recorder_08_01_1902_1_3.pdf
 Americus Weekly Times-Recorder_12-05-1912_8.pdf
-Athens Banner-Watchman_08-25-1885_2.pdf
 Athens Weekly Banner-Watchman_05-24-1887_2.pdf
-Athens Weekly Banner_06-30-1905_1.pdf
 Athens Weekly Banner_12-09-1890_6.pdf
-Atlanta Constitution_03-19-1899_12_2.pdf
-Atlanta Georgian_03_18_1911_7_4.pdf
-Bainbridge Democrat_03-02-1899_2_1.pdf
-Columbia State_10-05-1916_6_1.pdf
-Daily Enquirer_09-06-1889_1_6.pdf
-Detroit Free Press_12-16-1910_1_1.pdf
-The Atlanta Constitution_08-23-1898_3_1.pdf
-The Atlanta Constitution_12-16-1910_13_1.pdf
 The Atlanta Georgian_09-25-1906_2_1.pdf
-The Atlanta Gerogian and News_10-19-1911_2_5.pdf
-The Butler Herald_3-14-1940_8_1.pdf
-The Sandersville Herald_05-10-1900_22_4.pdf
-TheButlerHerald_09-11-1930_10_6.pdf
-The_Home_Journal_08-10-1881_1.pdf
 The_Memphis_Daily_Appeal_11-09-1876.pdf
 The_Milan_Exchange_08-23-1884.pdf
-The_Morristown_Gazette_01-04-1882_1.pdf
-The_Nashville_American_04-11-1909_13_1.pdf
-The_Nashville_American_04-27-1901_1_2.pdf
-The_Nashville_American_09-25-1906_1_1.pdf
-The_Nashville_Globe_11-02-1917_8.pdf
-The_news_Scmitir_04-15-1920.pdf
 The_Ocala_Banner_04-16-1909.pdf
 The_Ocala_Banner_07-29-1902.pdf
 The_Ocala_Evening_Star_12-14-1912_2.pdf
@@ -259,451 +116,143 @@ The_Palatka_Daily_News_12-31-1886_1.pdf
 The_Palatka_News_and_Advertiser_03-04-1904_1.pdf
 The_Palatka_News_and_Advertiser_08-07-1902.pdf
 The_Pensacola_Journal_01-17-1909_1.pdf
-The_Pensacola_Journal_05-06-1909_4.pdf
-The_Pensacola_Journal_09-12-1907_3.pdf
 The_Pensacola_Journal_10-16-1910_10.pdf
 The_Pensacola_Journal_12-24-1909_1.pdf
-The_Pulaski_Citizen_05-09-1889_1.pdf
-Weekly Banner_11-21-1893_7_3.pdf
 Weekly News and Advertiser_05-04 -- page 2 .pdf
-St. Louis Globe-Democrat_06-02-1882_5.Pdf
 Daily_Tobacco_leaf_Chronicle_04-28-1892.pdf
-St. Louis Globe-Democrat_11-26-1887_6.Pdf
-Daily Evening Bulletin_09-12-1889_3.Pdf
-The Daily Inter Ocean_09-12-1889_2.Pdf
-The Galveston Daily News_09-12-1889.Pdf
-The Los Angeles Times_09-12-1889_4.Pdf
-Afro-American_01-08-1929_1.pdf
-Afro-American_06-08-1929_1.pdf
-Chicago Defender_06-15-1929_1.pdf
-Chicago Defender_06-15-1929_A2.pdf
-Philadelphia Tribune_07-04-1929_1.pdf
-Philadelphia_Tribune_06-06-1929_1.pdf
-The Pittsburgh Courier_06-08-1929_1.pdf
-The_Rugby_Gazette_08-15-1885_1.pdf
-Daily Evening Bulletin_07-14-1885_4.Pdf
-St. Louis Globe-Democrat_10-29-1879_1.pdf
-Daily Arkansas Gazette_07-04-1882.Pdf
-Chicago Tribune_12-31-1898_20_1.pdf
 Columbus Daily Enquirer-Sum_05-16-1884_119_6.pdf
-Public_Ledger_05-15-1879.pdf
-Public_Ledger_05-27-1880.pdf
-Public_Ledger_05-30-1878.pdf
-The Atchison Daily Champion_03-13-1886.Pdf
-The Atchison Daily Globe_07-31-1888.Pdf
-The Atlanta Constitution_7-11-1889_3_1.pdf
+The Atchison Daily Champion_03-13-1886.pdf
+The Atchison Daily Globe_07-31-1888.pdf
 The Atlanta Georgian and News_03-03-1909_3_2.pdf
 The Butler Herald_03-19-1986_8_2.pdf
 The Butler Herald_05-18-1933_8_2.pdf
 The Columbus Enquirerer-Sun_02-28-1890_51_6.pdf
-The New York Times_2-5-1884_2_1.pdf
 The News and Observer_06-09-1881.pdf
 The North American_06-07-1881.pdf
 The North American_06-08-1881.pdf
 The North American_06-15-1881.pdf
 The Sandersville Herald_4-27-1899_2_5.pdf
 The True Citizen_3-18-1900_49_2.pdf
-The Washington Post_12-14-1898_9_1.pdf
-The_Camden_Chronicle_11-22-1901.pdf
 The_Columbia_Herald_06-24-1892_2.pdf
 The_Comet_11-15-1900.pdf
-The_Lancaster_Ledger_10-24-1903_4.pdf
-The_Lancaster_Ledger_11-25-1899_1.pdf
 The_Manning_times_03-29-1905.pdf
-The_Marlboro_Democrat_03-31-1905.pdf
-The_Memphis_Daily_Appeal_11-09-1876.pdf
-The_Milan_Exchange_08-23-1884.pdf
-The_Morristown_Gazette_01-04-1882_1.pdf
-The_Nashville_Globe_01-11-1907.pdf
 The_Nashville_Globe_03-08-1907_5.pdf
-The_Nashville_Globe_11-02-1917_8.pdf
-The_news_Scmitir_04-15-1920.pdf
 The_Ocala_Banner_02-20-1903.pdf
 Union Recorder_09-17-1889_5_3.pdf
 Weekly Banner_08-18-1899_8_2.pdf
-St. Louis Globe-Democrat_03-11-1884_4.Pdf
-St. Louis Globe-Democrat_04-23-1884_3.Pdf
-The Galveston Daily News_03-11-1884.Pdf
-St. Louis Globe-Democrat_09-23-1883_20.Pdf
-St. Louis Globe-Democrat_10-07-1883_20.Pdf
-St. Louis Globe-Democrat_07-03-1886_5.Pdf
+St. Louis Globe-Democrat_03-11-1884_4.pdf
+St. Louis Globe-Democrat_04-23-1884_3.pdf
+The Galveston Daily News_03-11-1884.pdf
+St. Louis Globe-Democrat_09-23-1883_20.pdf
+St. Louis Globe-Democrat_10-07-1883_20.pdf
+St. Louis Globe-Democrat_07-03-1886_5.pdf
 Barton_County_Democrat_11-25-1897.pdf
-The Galveston Daily News_01-27-1883.Pdf
-The Galveston Daily News_10-07-1880.Pdf
-St. Louis Globe-Democrat_11-08-1878_5.Pdf
-St. Paul Daily News_01-16-1891.Pdf
-The Galveston Daily News_12-04-1879.Pdf
-Daily Arkansas Gazette_05-22-1879.Pdf
-Daily Evening Bulletin_12-01-1888_2.Pdf
-The New York Freeman_09-26-1885.Pdf
-The_Daily_Press_10-19-1905_4.pdf
-The_Tazewell_republican_10-26-1905.pdf
-The_Tazewell_Republican_11-02-1905_1.pdf
-Daily Rocky Mountain News_02-17-1878.Pdf
-Southwestern Christian Advocate_12-08-1887_5.Pdf
-St. Louis Globe-Democrat_06-05-1885.Pdf
-The Daily Picayune_08-24-1896_10.Pdf
-The New York Freeman_05-22-1886.Pdf
-The New York Globe_02-09-1884.Pdf
-Caytons_Weekly_05-08-1920.pdf
-The_Wheeling_Intelligencer_06-19-1899_1.pdf
-The Milwaukee Sentinel_01-03-1897_2.Pdf
-The Milwaukee Sentinel_01-08-1897_6.Pdf
-The Milwaukee Sentinel_06-19-1899.Pdf
+The Galveston Daily News_01-27-1883.pdf
+The Galveston Daily News_10-07-1880.pdf
+St. Louis Globe-Democrat_11-08-1878_5.pdf
+St. Paul Daily News_01-16-1891.pdf
+The Galveston Daily News_12-04-1879.pdf
+Daily Evening Bulletin_12-01-1888_2.pdf
+The New York Freeman_09-26-1885.pdf
+Daily Rocky Mountain News_02-17-1878.pdf
+Southwestern Christian Advocate_12-08-1887_5.pdf
+The New York Freeman_05-22-1886.pdf
 Boston Daily Globe_02-05-1912_9.pdf
-Charlotte Observer_10-06-1895_1_1.pdf
-Columbus Daily Enquirer_09-21-1916_1_1.pdf
-Daily Times Enterprise_03-01-1917_6_2.pdf
-Daily Times Enterprise_09-04-1900_1_4.pdf
-Detroit Free Press_02-05-1912_3.pdf
-Gainesville_Daily_Sun_09-16-1909.pdf
 Georgia_Weekly_Opinion_10-01-1867_2.pdf
-Greenville_Times_07-06-1907.pdf
-Hutchinson_Gazette_07-29-1897.pdf
-Inter Ocean_11-13-1878_4.Pdf
-Iron_County_Register_01-29-1903_1.pdf
-Knoxville_Chronicle_06-19-1881.pdf
-Los Angeles Times_05-01-1910_12.pdf
-Los Angeles Times_09-09-1902_2_1.pdf
-McClure's Magazine_03-1907_565.pdf
-Memphis_Daily_Appeal_06-07-1885_4.pdf
-Memphis_Daily_Appeal_07-27-1887_6.pdf
-Milwaukee Daily Sentinel_06-15-1881_10.pdf
-Milwaukee Daily Sentinel_06-17-1881_4.Pdf
-Nashville Tennessean and the Nashville American_02-26-1916_5.pdf
-New-York Times_02-26-1916_4.pdf
 Philadelphia Tribune_09-12_1940_1.pdf
 Philadelphia Tribune_11-20-1920_1_1 (1).pdf
-Rocky Mountain News_06-07-1881.pdf
-Rocky Mountain News_06-15-1881.pdf
 San Francisco Chronicle_10-05-1895_10_4 (1).pdf
-St. Louis Globe-Democrat_06-07-1881_7.pdf
-The Atlanta Constitution_02-26-1916_4.pdf
-The Atlanta Constitution_03-01-1901_2_1.pdf
 The Atlanta Constitution_03-10-1940_4_1.pdf
 The Atlanta Constitution_04-04-1900_3_1.pdf
-The Atlanta Constitution_06-19-1894_2.pdf
-The Atlanta Constitution_06-22-1913_1_1.pdf
-The Atlanta Constitution_06-25-1912_1_1.pdf
-The Atlanta Constitution_07-29-1902_4_1.pdf
-The Atlanta Constitution_08-04-1899_1.pdf
-The Atlanta Constitution_08-19-1889_1_1.pdf
-The Atlanta Constitution_10-17-1900_3_1.pdf
-The Atlanta Constitution_10-6-1912_12_1.pdf
-The Atlanta Constitution_11-02-1891_3_1.pdf
 The Atlanta Constitution_12-09-1900_5_1 (1).pdf
 The Atlanta Daily World_09-12-1940_1 (1).pdf
-The Atlanta Daily World_09-12-1940_1.pdf
 The Austin Statesman_02-05-1912_1.pdf
-The Congregationalist_06-15-1881_8.Pdf
 The Congretionalist_06-15-1881_8.pdf
-The Daily Inter Ocean_06-07-1881_5.pdf
-The Daily Inter Ocean_06-15-1881.pdf
-The Daily Picayune_10-15-1892.Pdf
-The Daily Register-Call_06-15-1881.pdf
-The Galveston Daily News_01-09-1885_5.Pdf
-The Galveston Daily News_02-05-1886_5.Pdf
-The Galveston Daily News_03-08-1893_8.Pdf
-The Galveston Daily News_03-13-1884.Pdf
-The Galveston Daily News_06-04-1883.Pdf
-The Galveston Daily News_06-12-1881.Pdf
-The Galveston Daily News_07-05-1879.Pdf
-The Galveston Daily News_07-08-1895.Pdf
-The Galveston Daily News_07-09-1893_12.Pdf
-The Galveston Daily News_08-06-1879.Pdf
-The Galveston Daily News_08-20-1884_8.Pdf
-The Galveston Daily News_10-23-1890.Pdf
-The Galveston Daily News_11-26-1879.Pdf
-The Home Journal_10-18-1900_3_3.pdf
-The Milwaukee Sentinel_07-02-1894_4.Pdf
-The Nashville Tennessean_09-21-1916_2_1.pdf
-The News and Observer_04-06-1895_3.Pdf
-The Pittsburgh Courier_09-14-1940_12.pdf
-The Sun_02-05-1912_2.pdf
-The Washington Post_08-04-1899_1.pdf
-The Washington Post_09-09-1940_3.pdf
-The_Democrat_Star_07-05-1901_2.pdf
-The_Globe_Republican_04-02-1896.pdf
-The_Globe_Republican_09-09-1892.pdf
-The_Globe_Republican_09-09-1892_1.pdf
-The_Goodland_Republic_08-26-1898.pdf
-The_Greenville_Times_07-06-1907_2.pdf
 The_greenville_Times_07-06-1907_4.pdf
-The_Hays_Free_Press_02-06-1909.pdf
-The_Home_Journal_08-10-1881_1.pdf
 The_Houston_Daily_Post_07-04-1902_4.pdf
 The_Houston_Daily_Post_12-26-1901_4.pdf
-The_Iola_Register_01-30-1880.pdf
-The_Weekly_Democratic_Statesman_08-26-1875_2.pdf
-Vienna Progress_09-21-1899_6_5.pdf
-Waco_Daily_Examiner_04-02-1885_2.pdf
-Wayross Evening Herald_04-16-1910_1_1.pdf
-The Milwaukee Sentinel_03-14-1886.Pdf
-Plateau_Gazette_04-14-1883_3.pdf
-St. Louis Globe-Democrat_04-09-1883.Pdf
-The_Milan_Exchange_04-14-1883.pdf
-Atlanta_Weekly_Constitution_06-09-1885_12.pdf
-Atlanta_weekly_Sun_08-16-1871_7.pdf
-Atlantian_12-1911_20.pdf
 Bangor Daily Whig & Courier_06-07-1881.pdf
-Bangor Daily Whig & Courier_09-12-1885.Pdf
+Bangor Daily Whig & Courier_09-12-1885.pdf
 Barber_county_Index_02-01-1884.pdf
-Barton_County_Democrat_12-12-1889.pdf
-Boston Daily Advertiser_06-07-1881.pdf
 Columbus Enquirer_07-28-1887_1_2.pdf
-Daily Arkansas Gazette_06-07-1881.pdf
 Daily Enterprise_09-06-1889_4_3.pdf
-Fort_Worth_Daily_Gazette_05-03-1884_2.pdf
-Frank Leslie's Illustrated Newspaper_07-02-1881_299.Pdf
-Independent Statesman_06-09-1881.pdf
-Milwaukee Daily Sentinel_06-07-1881_2.pdf
+Frank Leslie's Illustrated Newspaper_07-02-1881_299.pdf
 New York Times_12-25-1894_5_1.pdf
-Southwestern Christian Advocate_02-24-1881.pdf
-Southwestern Christian Advocate_02-24-1881_2.pdf
-Southwestern Christian Advocate_06-21-1894_4.Pdf
-Southwestern Christian Advocate_08-02-1894_4.Pdf
+Southwestern Christian Advocate_08-02-1894_4.pdf
 The Atlanta Constitution_01-05-1901_2_1.pdf
 The Atlanta Constitution_03-17-1899_1_1.pdf
 The Atlanta Constitution_07-02-1907_1_1.pdf
-The Atlanta Constitution_08-23-1898_3_1.pdf
 The Atlanta Constitution_09-11-1912_2_1.pdf
 The Atlanta Constitution_09-20-1894_6_1.pdf
 The Atlanta Constitution_09-3-1891_2_1.pdf
 The Atlanta Constitution_10-17-1900_3_2.pdf .pdf
-The Atlanta Constitution_11-11-1895_3_1.pdf
 The Atlanta Constitution_12-2-1888_15_1.pdf
-The Atlanta Georgian_09-25-1906_2_1.pdf
 The Atlanta Georgian_09-25-1906_4_4.pdf
-The Daily Inter Ocean_03-06-1895.Pdf
-The Daily Inter Ocean_03-28-1892_4.Pdf
+The Daily Inter Ocean_03-06-1895.pdf
+The Daily Inter Ocean_03-28-1892_4.pdf
 The Daily Inter Ocean_10-29-1880_9.pdf
-The Daily Picayune_01-30-1894_2.Pdf
-The Daily Picayune_04-17-1893_6.Pdf
-The Daily Picayune_04-24-1893_6.Pdf
-The Daily Picayune_05-15-1893_3.Pdf
-The Daily Picayune_05-22-1893_6.Pdf
-The Daily Picayune_07-01-1894_21.Pdf
-The Daily Picayune_07-25-1892_7.Pdf
-The Daily Picayune_07-26-1892_4.Pdf
-The Daily Picayune_07-30-1894_4.Pdf
-The Daily Picayune_09-10-1894_4.Pdf
+The Daily Picayune_01-30-1894_2.pdf
+The Daily Picayune_04-17-1893_6.pdf
+The Daily Picayune_04-24-1893_6.pdf
+The Daily Picayune_07-01-1894_21.pdf
 The Nashville American_07-16-1899_11_1.pdf
 The Sunny South_10-09-1880_4_4.pdf
-The_Butler_Herald_07-31-1930_8_2.pdf
 The_Camden_Chronicle_06-24-1892_1.pdf
-The_Canton_Times_08-29-1902_3.pdf
-The_Chanute_times_02-05-1909.pdf
 The_Columbia_Herald_05-20-1898_8.pdf
-The_Columbia_Herald_06-24-1892_2.pdf
 The_Columbus_Weekly_Dispatch_02-21-1907_6.pdf
-The_Comet_11-15-1900.pdf
-The_Daily_Press_10-19-1905_4.pdf
-The_Houston_Daily_Post_07-04-1902_4.pdf
-The_Houston_Daily_Post_12-26-1901_4.pdf
 Vienna Progress_06-07-1900_1_2.pdf
-Inter Ocean_07-23-1878_8.Pdf
-Inter Ocean_07-24-1878_8.Pdf
-Inter Ocean_08-27-1878_5.Pdf
-Inter Ocean_09-20-1878_8.Pdf
-St. Louis Globe-Democrat_10-04-1878_3.Pdf
-St. Louis Globe-Democrat_10-29-1879.Pdf
-St. Louis Globe-Democrat_03-19-1883.Pdf
-The Cleveland Herald_03-19-1883.Pdf
-St. Louis Globe-Democrat_05-21-1879_2.Pdf
-Rocky Mountain News_08-10-1879_2.Pdf
-Rocky Mountain News_08-23-1879_3.Pdf
-Southwestern Christian Advocate_09-04-1879.Pdf
-St. Louis Globe-Democrat_08-06-1879_5.Pdf
-Atlanta_Georgian_09-25-1906_4_4.pdf
-Daily_Evening_Bullitin_08-08-1881.Pdf
-Daily_Tobacco_Leaf_Chronicle_11-01-1892.pdf
-Knoxville_Chronicle_06-19-1881.pdf
-Memphis_Daily_Appeal_06-07-1885_4.pdf
-Savannah_Courier_03-02-1893.pdf
-The Atlanta Georgian_04-04-1909_3_6.pdf
-The North American_10-07-1895_4.Pdf
-The Raleigh Register_09-16-1885.Pdf
-The Sandersville Herald_04-27-1899_1_3.pdf
-The Times of India_01-02-1913_11.pdf
-The Washington Post_01-31-1913_4.pdf
-The Washington Post_02-09-1890_4.pdf
-The Washington Post_04-13-1910_6.pdf
-The Washington Post_06-19-1899.pdf
-The Washington Post_08-17-1885_3.pdf
-The Washington Post_08-21-1882_2.pdf
-The_Afro_American_10-26-1895.Pdf
-The_American_Citizen_01-31-1880_1.pdf
-The_Atchinson_Daily Globe_09-12-1885.Pdf
-The_Atlantian_01-16-1911_20.pdf
-The_Butler_Herald_03-02-1916_2.pdf
-The_Camden_Chronicle_11-22-1901.pdf
-The_Columbus_Enquirer_08-03-1889_3.pdf
-The_Columbus_Enquirer_7-28-1887_1_2.pdf
-The_Galveston_Daily_News_09-12-1885_3.Pdf
-The_Herald_Butler_04-30-1936_8_2.pdf
-The_Herald_Butler_4-30-1936_3_4.pdf
-The_Herald_Butler_7-20-1912_2.pdf
-The_Herald_Butler_9-10-1912_5.pdf
-The_Lancaster_Ledger_10-24-1903_4.pdf
-The_Lancaster_Ledger_11-25-1899_1.pdf
-The_Macon_Telegraph_10-04-1895.Pdf
-The_Manning_times_03-29-1905.pdf
-The_Marlboro_Democrat_03-31-1905.pdf
-The_Milwaukee_Sentinel_09-12-1885_4.Pdf
-The_News_ and_Observer_11-22-1895.Pdf
-The_New_York_Freeman_06-11-1887.Pdf
-The_North_American_10-07-1895_4.Pdf
-The_Raleigh_Register_09-16-1885.Pdf
-The_Sandersville_Hearald_03-21-1895_1.pdf
-The_Sunny_South_06-03-1899_6_3.pdf
-The_Union_Times_03-20-1903_4.pdf
-The_Watchman_and_Southron_05-21-1913.pdf
-The_Weekly_Constitution_09-13-1887_11_3.pdf
-Vienna News_08-03-1904_1_3.pdf
-Weekly News and Advertiser_05-04 -- page 2 .pdf
-St. Louis Globe-Democrat_08-08-1879_5.Pdf
-Albany Law Journal_10-29-1887_344.pdf
-Chicago Daily Tribune_12-28-1885_10.pdf
-New York Times_11-16-1885_1.pdf
-The Galveston Daily News_07-27-1897_6.Pdf
-The Macon Telegraph_07-27-1897_2.Pdf
-Daily Evening Bulletin_05-05-1884_3.Pdf
-Daily Arkansas Gazette_01-30-1883.Pdf
-Frank Leslie's Illustrated Newspaper.Pdf
-Rocky Mountain News_01-30-1883_6.Pdf
-St. Louis Globe-Democrat_01-30-1883_2.Pdf
-St. Louis Globe-Democrat_01-31-1883_4.Pdf
-The New Mississippian_01-30-1883.Pdf
-Los Angeles Daily Times_11-29-1884_2.Pdf
-St. Louis Globe-Democrat_11-20-1883_11.Pdf
-The Galveston Daily News_11-22-1884_2.Pdf
-Weekly Los Angeles Mirror_11-29-1884_2.Pdf
-St. Louis Globe-Democrat_01-14-1884_4.Pdf
-Topeka_state_Journal_02-06-1897_8.pdf
-The Milwaukee Journal_09-03-1897.Pdf
-The Daily Inter Ocean_07-14-1882_5.Pdf
-The News and Observer_07-16-1882.Pdf
-St. Louis Globe-Democrat_11-02-1886_2-2.Pdf
-The Milwaukee Sentinel_12-05-1883_2.Pdf
-Rocky Mountain News_02-22-1884_4.Pdf
-The Indiana State Journal_12-28-1898.Pdf
-St. Louis Globe-Democrat_09-11-1887_7.Pdf
+Inter Ocean_07-23-1878_8.pdf
+Inter Ocean_07-24-1878_8.pdf
+Inter Ocean_08-27-1878_5.pdf
+Inter Ocean_09-20-1878_8.pdf
+St. Louis Globe-Democrat_10-04-1878_3.pdf
+St. Louis Globe-Democrat_10-29-1879.pdf
+St. Louis Globe-Democrat_03-19-1883.pdf
+The Cleveland Herald_03-19-1883.pdf
+St. Louis Globe-Democrat_05-21-1879_2.pdf
+Rocky Mountain News_08-10-1879_2.pdf
+Rocky Mountain News_08-23-1879_3.pdf
+Southwestern Christian Advocate_09-04-1879.pdf
+St. Louis Globe-Democrat_08-06-1879_5.pdf
+The_Atchinson_Daily Globe_09-12-1885.pdf
+The_Macon_Telegraph_10-04-1895.pdf
+The_News_ and_Observer_11-22-1895.pdf
 Afro-American_11-05-1949.pdf
 Afro-American_11-26-1949.pdf
-Atlanta_Daily_World_11-03-1949.pdf
-Atlanta_Georgian_And_News_12-17-1910_1_3.pdf
-Bangor Daily Whig & Courier_09-12-1885.Pdf
-Biskmarck Daily Tribune_10-04-1895.Pdf
-Columbus_Enquirer_12-14-1886_3_1.pdf
-Daily Times Enterprise_09-28-1916_1_5.pdf
-Fayetteville Observer_11-19-1891.Pdf
-Fort_Mill_Times_04-12-1905_1.pdf
+Fayetteville Observer_11-19-1891.pdf
 Frank Leslie's Illustrated Newspaper_04-23-1881_131.pdf
-Lawrence_Democrat_10-10-1890.pdf
-Morning Oregonian_10-23-1895_4.Pdf
-Southwestern Christian Advocate_02-12-1891.Pdf
-Southwestern Christian Advocate_08-07-1879.Pdf
-St. Louis Globe-Democrat_09-12-1885.Pdf
+Southwestern Christian Advocate_08-07-1879.pdf
+St. Louis Globe-Democrat_09-12-1885.pdf
 St. Louis Globe-Democrat_10-09-1880_10.pdf
-St. Louis Globe-Democrat_12-18-1886_6.Pdf
-The Afro-American_10-19-1895.Pdf
-The Atlanta Georgian_04-04-1889_4_6.pdf
-The Cleveland Herald_05-28-1884_2.Pdf
-The Cleveland Progress_06-21-1895_1_3.pdf
-The Daily Inter Ocean_09-05-1891_4.Pdf
-The New York Freeman_03-21-1885.Pdf
-The New York Freeman_03-28-1885.Pdf
-The New York Freeman_05-22-1886.Pdf
-The New York Freeman_06-11-1887.Pdf
-The New York Freeman_07-25-1885.Pdf
-The New York Freeman_09-26-1885.Pdf
-The New York Globe_02-09-1884.Pdf
-The New York Globe_03-01-1884.Pdf
-The New York Globe_06-02-1883.Pdf
-The New York Globe_06-16-1883.Pdf
-The New York Times_04-21-1910_8.pdf
+St. Louis Globe-Democrat_12-18-1886_6.pdf
+The Afro-American_10-19-1895.pdf
+The Daily Inter Ocean_09-05-1891_4.pdf
+The New York Freeman_06-11-1887.pdf
+The New York Globe_06-02-1883.pdf
+The New York Globe_06-16-1883.pdf
 The New York Times_05-23-1899_8.pdf
-The News and Observer_02-13-1887.Pdf
-The News and Observer_04-06-1895_3.Pdf
-The News and Observer_06-01-1897_3.Pdf
-The News and Observer_10-10-1897_12.Pdf
-The News and Observer_10-26-1884.Pdf
-The News and Observer_10-31-1897.Pdf
-The News and Observer_11-22-1895.Pdf
-The Weekly Constitution_08-14-1883_1_4.pdf
-The_Atlanta_Georgian_06-01-1907_3.pdf
-The_Atlanta_Georgian_and_News_06-29-1908_2_4.pdf
-The_Butler_Herald_01-19-1915_1_6.pdf
-The_Butler_Herald_09-11-1930_10_6.pdf
-The_Butler_Herald_12-17-1895_1.pdf
-The_Citizen_10-03-1889_5_4.pdf
+The News and Observer_02-13-1887.pdf
+The News and Observer_06-01-1897_3.pdf
+The News and Observer_10-10-1897_12.pdf
+The News and Observer_10-31-1897.pdf
+The News and Observer_11-22-1895.pdf
 The_Sandersville_Herald_01-27-1877_1.pdf
-The_Sandersville_Herald_06-17-1907_1.pdf
-The_Sandersville_Herald_11-28-1895_3.pdf
-The_True_Citizen_02-02-1901_2.pdf
-The_True_Citizen_08-17-1883_3.pdf
-The_True_Citizen_11-30-1895_4.pdf
 Chicago Daily Tribune_02-04-1930_1.pdf
 DownloadDocument-8.pdf
-The Daily Picayune_08-20-1887_6.Pdf
-St. Louis Globe-Democrat_08-31-1882_2.Pdf
-The_Pulaski_Citizen_11-18-1880.pdf
-The Daily Inter Ocean_02-12-1896_5.Pdf
-The Daily Inter Ocean_04-12-1896_7.Pdf
-The Indiana State Journal_02-19-1896.Pdf
-The_Milan_Exchange_02-28-1885.pdf
-Milwaukee Daily Sentinel_04-22-1882_4.Pdf
-Milwaukee Daily Sentinel_04-28-1882_3.Pdf
+The Daily Picayune_08-20-1887_6.pdf
+St. Louis Globe-Democrat_08-31-1882_2.pdf
+The Daily Inter Ocean_02-12-1896_5.pdf
+The Daily Inter Ocean_04-12-1896_7.pdf
+The Indiana State Journal_02-19-1896.pdf
+Milwaukee Daily Sentinel_04-22-1882_4.pdf
+Milwaukee Daily Sentinel_04-28-1882_3.pdf
 Bainbridge Democrat_09-12-1895_2_1.pdf
-Baxter_Spring_news_04-29-1893.pdf
-Biskmarck Daily Tribune_10-04-1895.Pdf
-Bismarck Daily Tribune_04-24-1886.Pdf
-Boston Daily Advertiser_06-11-1888_5.Pdf
-BostonDailyAdvertiser_06-11-1888_5.Pdf
-Bradford_County_11-29-1895.pdf
-Bradford_County_Telegraph_09-13-1895.pdf
-Carroll_County_Democrat_02-07-1913.pdf
-Caytons_Weekly_05-08-1920.pdf
-Chicago_Daily_Tribune_11-15-1949.pdf
-Chicago_Daily_Tribune_12-19-1948.pdf
+BostonDailyAdvertiser_06-11-1888_5.pdf
 Daily Times Enterprise_05-22-1911_1_5.pdf
 Grady County Progress_04-14-1911_7_2.pdf
-Home Journal_08-19-1886_2_3.pdf
-Iron_County_Register_01-29-1903_1.pdf
-Milan_Exchange_02-10-1883.pdf
-Milwaukee Daily Journal_02-13-1890.Pdf
-Morning Oregonian_08-18-1888_2.Pdf
-Morning Oregonian_10-23-1895_4.Pdf
-New York Times_06-12-1883_4.pdf
-New_Journal_and_Guide_11-19-1949.pdf
-OkolonaMessenger_05-05-1909_1.pdf
-Okolona_Messenger_05-05-1909_1.pdf
-Ouachita_Telegraph_07-24-1886_3.pdf
-Phillipsburg_Chronicle_07-29-1897.pdf
-Public_Ledger_05-15-1879.pdf
-Public_Ledger_05-27-1880.pdf
-Public_Ledger_05-30-1878.pdf
-Rocky Mountain News_06-08-1881_2.pdf
-St. Louis Globe-Democrat_02-28-1881_4.pdf
-St. Louis Globe-Democrat_03-06-1879_2.Pdf
 The Americus Weekly_07-03-1913_6_3.pdf
 The Americus Weekly_10-10-1912_2_2.pdf
 The Butler Herald_07-29-1937_5_6.pdf
-The Evening Penny Press_12-29-1896_2.Pdf
-The Galveston Daily News_04-06-1887_4.Pdf
-The Galveston Daily News_07-05-1885_11.Pdf
-The Macon Telegraph_10-04-1895.Pdf
-The Milwaukee Journal_09-01-1897_5.Pdf
-The Milwaukee Sentinel_01-03-1897_2.Pdf
-The Milwaukee Sentinel_01-08-1897_6.Pdf
-The Milwaukee Sentinel_06-19-1899.Pdf
-The Milwaukee Sentinel_07-02-1894_4.Pdf
-The Milwaukee Sentinel_09-12-1885_4.Pdf
-The New York Age_09-08-1888.Pdf
-The New York Amsterdam News_09-07-1927_1.pdf
-The New York Freeman_02-26-1887.Pdf
-The New York Freeman_03-21-1885.Pdf
-The New York Freeman_07-25-1885.Pdf
 The Sandersville Herald_03-22-1900_5.pdf
 The Sandersville Herald_07-20-1899_3.pdf
 The Sandersville Herald_07-27-1899_3.pdf
@@ -711,315 +260,63 @@ The True Citizen_03-24-1900_2.pdf
 The Waycross Journal_12-21-1910_1_6.pdf
 The Waycross Weekly_09-07-1895_5_2.pdf
 The Weekly Banner_06-30-1905_1_1.pdf
-TheNewYorkAge_09-08-1888.Pdf
-TheNewYorkFreeman_02-26-1887.Pdf
-The_American_Citizen_01-31-1880_1.pdf
-The_Butler_Herald_11-01-1892_4.pdf
-The_Butler_Herald_12-17-1895_6.pdf
-The_Canton_Times_08-29-1902_3.pdf
-The_Columbus_Weekly_Dispatch_02-21-1907_6.pdf
-The_Democrat_Star_07-05-1901_2.pdf
-The_Greenville_Times_07-06-1907_2.pdf
-The_greenville_Times_07-06-1907_4.pdf
-The_Nashville_Globe_01-11-1907.pdf
-The_Sandersville_Herald_06-02-1891_3.pdf
+TheNewYorkAge_09-08-1888.pdf
+TheNewYorkFreeman_02-26-1887.pdf
 The_Sandersville_Herald_3-22-1900_5.pdf
-The_Sunny_South_10-09-1880_4_4.pdf
-The_Weekly_Clarion_05-21-1879_2.pdf
-Walker_County_Messenger_10-27-1892_4.pdf
-St. Louis Globe-Democrat_12-12_1887_7.Pdf
-St. Louis Globe-Democrat_02-04-1880.Pdf
-The Daily Inter Ocean_02-04-1880_2.Pdf
-The Denver Evening Post_04-20-1899_8.Pdf
-The Milwaukee Sentinel_10-29-1883_2.Pdf
-Chicago_Daily_Tribune_12-12-1912.pdf
-Philadelphia_Tribune_05-25-1912.pdf
-Philadelphia_Tribune_08-10-1933.pdf
-The_New_York_Times_08-01-1921.pdf
-The_New_York_Times_12-12-1912.pdf
-The_Seattle_Republican_03-19-1901_1.pdf
-The_Times_of_India_01-02-1913.pdf
-The_Washington_Post_02-10-1912.pdf
+St. Louis Globe-Democrat_02-04-1880.pdf
 St. Louis Globe Democrat_03-25-1881_2.pdf
-Rocky Mountain News_01-02-1886_3.Pdf
-St. Louis Globe-Democrat_06-15-1885_5.Pdf
-The Arkansas Gazette_03-08-1898_8.Pdf
-St. Louis Globe-Democrat_08-11-1887_2.Pdf
-The North American_03-15-1889.Pdf
-St. Louis Globe-Democrat_10-03-1885_12.Pdf
-The North American_10-05-1885.Pdf
 Austin Daily Statesman_07-26-1901_1.pdf
-Columbus_Enquirer_9-6-1889_3.pdf
-Daily Evening Bulletin_05-23-1881_4.pdf
-Herald and Advertiser_03-17-1899_3_1.pdf
 Los Angeles Times_07-26-1901_8.pdf
-Macon Telegraph_10-21-1899_1.pdf
-Nashville Tennessean_11-19-1920_1.pdf
-Nashville Tennessean_12-22-1915_1.pdf
-New York Times_08-22-1898_7_1.pdf
-New York Times_10-16-1896_17_1.pdf
-New York Tribune_11-19-1920_1.pdf
-New_Journal_and_Guide_12-25-1948.pdf
-St. Louis Globe-Democrat_01-12-1885_2.Pdf
-St. Louis Globe-Democrat_09-12-1884_4.Pdf
-St_Laundy_Clarion_08-09-1910.pdf
-St_Tammany_Farmer_02-07-1903_4.pdf
-The Atchison Daily Globe_08-18-1888.Pdf
+St. Louis Globe-Democrat_09-12-1884_4.pdf
 The Atlanta Consitution_02-03-1910_1.pdf
 The Atlanta Consitution_02-07-1912_1.pdf
-The Atlanta Constitution_03-05-1894_2.pdf
-The Atlanta Constitution_04-16-1910_1.pdf
 The Atlanta Constitution_08-19-1900_4.pdf
-The Atlanta Constitution_10-16-1896_1_1.pdf
-The Atlanta Constitution_11-19-1920_4.pdf
-The Atlanta Constitution_12-09-1900_5_1.pdf
-The Austin Statesman_07-28-1913_1_1.pdf
-The Daily Picayune_02-10-1887_4.Pdf
-The Daily Picayune_05-02-1889_4.Pdf
-The Daily Picayune_06-22-1890_10.Pdf
-The Daily Picayune_08-13-1888_4.Pdf
-The Daily Picayune_08-19-1888_2.Pdf
-The Daily Picayune_11-30-1897_3.Pdf
-The Galveston Daily News_07-05-1879.Pdf
-The Galveston Daily News_07-05-1885_11.Pdf
-The Galveston Daily News_07-08-1895.Pdf
-The Galveston Daily News_07-09-1893_12.Pdf
-The Galveston Daily News_08-06-1879.Pdf
-The Galveston Daily News_08-20-1884_8.Pdf
-The Galveston Daily News_09-12-1885_3.Pdf
-The Galveston Daily News_10-23-1890.Pdf
-The Galveston Daily News_11-26-1879.Pdf
-The Herald and Georgian_11-15-1894_2_3.pdf
-The Independent_01-02-1913_12.pdf
-The Independent_06-26-1902_1562.pdf
-The Macon Daily Telegraph_01-31-1912_1_3.pdf
-The Macon Daily Telegraph_05-25-1909_3_1.pdf
-The Macon Telegraph_08-20-1897_3.Pdf
 The Nashville American_05-25_1909_9_1.pdf
-The Nashville American_07-26-1901_8.pdf
-The New York Freeman_03-21-1885.Pdf
-The New York Freeman_03-28-1885.Pdf
-The New York Times_04-21-1910_8.pdf
-The Sun_01-21-1912_5.pdf
-The Sun_05-23-1899_2_1.pdf
-The Sun_07-02-1906_1.pdf
 The Washington Post_01-31-1912_11.pdf
-The Washington Post_04-13-1910_6.pdf
-The Washington Post_08-17-1885_3.pdf
-The Washington Post_08-21-1882_2.pdf
 The Waycross Journal_09-13-1912_1_5.pdf
-The_Athens_Banner_03-26-1918_1_5.pdf
-The_Atlanta_Georgian_9-25-1906_4_4.pdf
-The_Atlanta_Georgian_and_News_03-03-1905_3_2.pdf
-The_Butler_Herald_08-20-1912_4_2.pdf
-The_Chicago_Defender_01-01-1949.pdf
-The_Chicago_Defender_01-01-1949_2.pdf
-The_True_Citizen_3-24-1900_2.pdf
-The_True_Democrat_04-24-1909_3.pdf
-The_true_democrat_05-01-1909_2.pdf
 The_Union_Recorder_9-17-1889_3.pdf
-Union_Recorder_07-04-1905_4_3.pdf
-Union_Recorder_08-17-1915_1_1.pdf
-Weekly Journal Miner_11-11-1891_1_1.pdf
-Chicago Daily Tribune_11-12-1887_1.pdf
-The Atchison Globe_09-29-1882.Pdf
-The Daily Picayune_08-29-1890_2.Pdf
-The Atchison Globe_08-22-1884_1.pdf
-St. Louis Globe-Democrat_02-04-1880_8.Pdf
-St. Louis Globe-Democrat_06-02-1884_3.Pdf
-The New Mississippian_06-24-1884.Pdf
-Milwaukee Daily Sentinel_05-04-1881_2.Pdf
-St. Louis Globe-Democrat_05-04-1881_6.Pdf
-The New York Globe_06-02-1883.Pdf
-The News and Observer_06-01-1897_3.Pdf
-The News and Observer_10-31-1897.Pdf
-Afro-American_05-07-1910_6.2.pdf
-Afro-American_05-07-1910_6.pdf
-Atchison Daily Champion_08-18-1888.Pdf
+St. Louis Globe-Democrat_06-02-1884_3.pdf
 Chicago Daily Tribune_12-31-1912_22_2.pdf
-Daily Evening Bulletin_08-17-1888_3.Pdf
-Daily Evening Bulletin_08-18-1888_2.Pdf
-Daily Evening Bulletin_09-30-1886_4.Pdf
-Daily Evening Bulletin_12-14-1886.Pdf
-Daily Times Enterprise_09-24-1918_1_5.pdf
 Fayetteville News_8-20-1915_2_3.pdf
-Frank Leslie's Illustrated Newspaper_10-02-1886_103.Pdf
-Los Angeles Times_05-01-1910_12.pdf
-McClure's Magazine_03-1907_565.pdf
-Morning Oregonian_08-18-1888_2.Pdf
-Ouachita_Telegraph_07-24-1886_3.pdf
-Southwestern Christian Advocate_02-21-1884.Pdf
-Southwestern Christian Advocate_03-19-1885_2.Pdf
-Southwestern Christian Advocate_06-17-1888_6.Pdf
-Southwestern Christian Advocate_08-08-1889_4.Pdf
-Southwestern Christian Advocate_10-11-1883_4.Pdf
-Southwestern Christian Advocate_10-14-1886_5.Pdf
-Southwestern Christian Advocate_10-27-1887.Pdf
-Southwestern Christian Advocate_10-29-1885_4.Pdf
+Frank Leslie's Illustrated Newspaper_10-02-1886_103.pdf
+Southwestern Christian Advocate_08-08-1889_4.pdf
+Southwestern Christian Advocate_10-11-1883_4.pdf
+Southwestern Christian Advocate_10-14-1886_5.pdf
+Southwestern Christian Advocate_10-27-1887.pdf
+Southwestern Christian Advocate_10-29-1885_4.pdf
 The Atlanta Consitution_07-26-1901_2.pdf
-The Atlanta Constitution_03-05-1909_11.pdf
-The Atlanta Constitution_03-06-1894_2.pdf
-The Atlanta Constitution_03-11-1888_6_11.pdf
-The Atlanta Constitution_04-07-1894_5.pdf
-The Atlanta Constitution_04-11-1894_5.pdf
-The Atlanta Constitution_07-23-1897_1.pdf
-The Atlanta Constitution_08-20-1897_3.pdf
-The Atlanta Constitution_09-05-1889_5.pdf
-The Atlanta Constitution_12-09-1900_5.pdf
-The Daily Picayune_09-10-1894_4.Pdf
-The Daily Picayune_10-15-1892.Pdf
-The Evening Penny Press_12-29-1896_2.Pdf
-The Galveston Daily News_01-09-1885_5.Pdf
-The Galveston Daily News_02-05-1886_5.Pdf
-The Galveston Daily News_03-08-1893_8.Pdf
-The Galveston Daily News_03-13-1884.Pdf
-The Galveston Daily News_04-06-1887_4.Pdf
-The Galveston Daily News_06-04-1883.Pdf
-The Independent_01-02-1913_12.pdf
-The Independent_06-26-1902_1562.pdf
-The Nashville American_12-09-1900_20.pdf
-The News and Observer_02-13-1887.Pdf
-The News and Observer_10-26-1884.Pdf
-The Sunny South_10-09-1880_4_4.pdf
-The_Chicago_Defender_02-05-1949.pdf
-The_Chicago_Defender_11-05-1949.pdf
-The_Chicago_Defender_12-25-1948.pdf
-Vienna News_09-07-1904_1_3.pdf
 Waycross Weekly Herald_08-12-1893_ 5_4.pdf
 Weekly News and Advertiser_05-04-1889_2_2.pdf
-The Indiana State Journal_04-05-1899_5.Pdf
-The Weekly News and Courier_06-03-1899.Pdf
-The Weekly News and Courier_06-07-1899_6.Pdf
-Daily Arkansas Gazette_01-14-1882.Pdf
-Georgia Weekly Telegraph_05-29-1877.Pdf
-The Galveston daily News_06-22-1879.Pdf
-The Daily Inter Ocean_07-17-1882_5.Pdf
-The Daily Inter Ocean_07-26-1882_4.Pdf
-Daily Evening Bulletin_02-12-1890_3.Pdf
-The Los Angeles Times_02-13-1890_4.Pdf
-The Galveston Daily News_05-09-1885_3.Pdf
-The New York Globe_03-01-1884.Pdf
-Athens Daily Banner_12-06-1921_6_3.pdf
-Daily Evening Bullitin_08-08-1881.Pdf
+The Indiana State Journal_04-05-1899_5.pdf
+The Weekly News and Courier_06-03-1899.pdf
+The Weekly News and Courier_06-07-1899_6.pdf
+Daily Arkansas Gazette_01-14-1882.pdf
+Georgia Weekly Telegraph_05-29-1877.pdf
+The Galveston daily News_06-22-1879.pdf
+The Daily Inter Ocean_07-17-1882_5.pdf
+Daily Evening Bulletin_02-12-1890_3.pdf
+The Los Angeles Times_02-13-1890_4.pdf
+The Galveston Daily News_05-09-1885_3.pdf
+Daily Evening Bullitin_08-08-1881.pdf
 Daily Inter Ocean_11-02-1891_1_1.pdf
 Daily Journal and Tribune_11-02-1891_1_1.pdf
-Daily Rocky Mountain News_02-17-1878.Pdf
-Daily_Tobacco_Leaf_Chronicle_11-01-1892.pdf
 Deland_News_01-22-1909.pdf
-Fayetteville Observer_11-19-1891.Pdf
-Fort_Mill_Times_04-12-1905_1.pdf
-Fort_Worth_Daily_Gazette_05-03-1884_2.pdf
-Frank Leslie's Illustrated Newspaper_04-23-1881_131.pdf
-Frank Leslie's Illustrated Newspaper_10-02-1886_103.Pdf
-Gainesville_Daily_Sun_01-16-1907_1.pdf
-Georgia Weekly Telegraph and Georgia Journal & Messenger_06-17-1879.Pdf
-Georgia Weekly Telegraph, Journal & Messenger_01-06-1882.Pdf
-Herald and Advertiser_04-28-1899_6_3.pdf
 Idaho Statesman_10-05-1895_1_1.pdf
-Montgomery Advisor_09-21-1916_7_1.pdf
-New York Tribune_11-19-1920_1_1.pdf
-Oregonian_11-19-1920_2_1.pdf
-Philadelphia Tribune_11-20-1920_1_1.pdf
-Phillipsburg_Chronicle_07-29-1897.pdf
 San Francisco Chronicle_10-05-1895_10_4.pdf
-Tacoma Daily News_10-05-1895_4_1.pdf
-The Atchison Daily Globe_08-05-1887.Pdf
-The Athens Banner_03-26-1918_7_5.pdf
 The Athens Banner_08-18-1899_2_3.pdf
-The Athens Herald_3-26-1918_8_1.pdf
-The Atlanta Constitution_01-11-1908_5.pdf
-The Atlanta Constitution_05-22-1907_1.pdf
-The Atlanta Constitution_07-28-1913_1_1.pdf
-The Atlanta Constitution_09-12-1898_3_1.pdf
-The Atlanta Constitution_11-19-1920_4_6.pdf
 The Atlanta Constitution_9-13-1898_3_1.pdf
-The Congregationalist_11-10-1887_10.Pdf
-The Daily Picayune_04-24-1893_6.Pdf
-The Daily Picayune_05-02-1889_4.Pdf
-The Daily Picayune_05-15-1893_3.Pdf
-The Daily Picayune_05-22-1893_6.Pdf
-The Daily Picayune_06-22-1890_10.Pdf
-The Daily Picayune_07-01-1894_21.Pdf
-The Daily Picayune_07-25-1892_7.Pdf
-The Daily Picayune_07-26-1892_4.Pdf
-The Daily Picayune_07-30-1894_4.Pdf
-The Daily Picayune_08-13-1888_4.Pdf
-The Daily Picayune_08-19-1888_2.Pdf
-The Daily Picayune_08-24-1896_10.Pdf
-The Milwaukee Journal_09-01-1897_5.Pdf
-The Nashville American_05-22-1907_1.pdf
-The New York Globe_06-16-1883.Pdf
-The Washington Post_05-22-1907_1.pdf
-The_Chanute_times_02-05-1909.pdf
-The_Globe_Republican_04-02-1896.pdf
-The_Globe_Republican_09-09-1892.pdf
-The_Globe_Republican_09-09-1892_1.pdf
-The_Goodland_Republic_08-26-1898.pdf
-The_Hays_Free_Press_02-06-1909.pdf
-The_Iola_Register_01-30-1880.pdf
+The Congregationalist_11-10-1887_10.pdf
 The_New_York_Times_12-19-1948.pdf
-The_Pittsburgh_Courier_11-26-1949.pdf
-The_Topeka_State_journal_10-26-1895_8.pdf
 The_Washington_Post_12-19-1948.pdf
-The_Wichita_Daily_Eagle_12-01-1887_6.pdf
-The_Wichita_Daily_Journal_01-20-1899_2.pdf
-Topeka_State_Journal_03-06-1895_6.pdf
-Topeka_State_Journal_03-30-1896_2.pdf
-Topeka_State_Journal_09-12-1901_8.pdf
-Topeka_State_Journao_02-16-1897_8.pdf
-Western_Kansas_World_06-15-1889_4.pdf
-Western_Kansas_World_12-22-1888.pdf
-Daily Evening Bulletin_01-25_1884.Pdf
-Daily Evening Bulletin_02-01-1884.Pdf
-Southwestern Christian Advocate_02-07-1884.Pdf
-The Galveston Daily News_06-25-1887_4.Pdf
-The Idaho Avalanche_02-16-1884.Pdf
-The Idaho Avalanche_03-08-1884.Pdf
-The New Mississippian_02-05-1884.Pdf
-The New York Globe_02-09-1884.Pdf
-The News and Observer_01-09-1886.Pdf
-The News and Observer_01-27-1884.Pdf
-The Raleigh Register_10-15-1884.Pdf
-Daily Evening Bulletin_07-02-1886.Pdf
-Los Angeles Times_07-23-1897_2.pdf
-New York Tribune_07-23-1897_1.pdf
-The Atlanta Constitution_07-23-1897_1.pdf
-The Atlanta Constitution_07-23-1897_2.pdf
-The Atlanta Constitution_07-23-1897_4.pdf
-The Atlanta Constitution_08-20-1897_3.pdf
-The Nashville American_07-23-1897_3.pdf
-The Sun_07-23-1897_2.pdf
-Abilene_Weekly_journal_01-02-1913.pdf
+Daily Evening Bulletin_07-02-1886.pdf
 Atlanta Daily Sun_08-10-1871_4.pdf
-Carroll_County_Democrat_02-07-1913.pdf
-Hutchinson_Gazette_07-29-1897.pdf
 The Butler Hearld_03-14-1940_3.pdf
 The Butler Hearld_03-14-1940_8.pdf
-The Cleveland Herald_05-28-1884_2.Pdf
-The Congregationalist_11-10-1887_10.Pdf
-The Daily Inter Ocean_03-06-1895.Pdf
-The Daily Inter Ocean_03-28-1892_4.Pdf
-The Daily Inter Ocean_07-09-1891_4.Pdf
-The Daily Inter Ocean_07-13-1889_4.Pdf
-The Daily Inter Ocean_07-19-1887_4.Pdf
-The Daily Inter Ocean_09-05-1891_4.Pdf
-The Daily Inter Ocean_10-29-1880_9.pdf
-The Daily Picayune_01-30-1894_2.Pdf
-The Daily Picayune_02-10-1887_4.Pdf
-The Daily Picayune_04-17-1893_6.Pdf
-The_Weekly_Constitution_02-06-1883_1.pdf
-Abilene_Weekly_Reflector-12-19-1912_1.pdf
-Abilene_Weekly_Reflector_11-25-1897_4.pdf
-Barber_county_Index_02-01-1884.pdf
-Barton_County_Democrat_12-12-1889.pdf
-Baxter_Spring_news_04-29-1893.pdf
-Bismarck Daily Tribune_04-24-1886.Pdf
+The Daily Inter Ocean_07-09-1891_4.pdf
+The Daily Inter Ocean_07-13-1889_4.pdf
+The Daily Inter Ocean_07-19-1887_4.pdf
 Carroll Free Press_08-22-1884_2.pdf
-Inter Ocean_11-13-1878_4.Pdf
-Memphis_Daily_Appeal_07-27-1887_6.pdf
-Milan_Exchange_02-10-1883.pdf
 New York Times_09-03-1922_4.pdf
-Southwestern Christian Advocate_02-26-1885_5.Pdf
 The Athens Banner_08-11-1899_4_4.pdf
 The Atlanta Constitution_09-03-1922_6.pdf
 The Atlanta Constitution_09-05-1918_9.pdf
@@ -1027,234 +324,57 @@ The Atlanta Constitution_09-11-1912_2.pdf
 The Atlanta Constitution_10-17-1900_3.pdf
 The Columbus Enquirer-Sun_05-25-1889_1.pdf
 The Columbus Enquirer-Sun_06-27-1888_1.pdf
-The Daily Inter Ocean_07-09-1891_4.Pdf
-The Daily Inter Ocean_07-13-1889_4.Pdf
-The Daily Inter Ocean_07-19-1887_4.Pdf
-The Galveston Daily News_09-02-1884.Pdf
-The Macon Telegraph_05-24-1889_1.pdf
-The Milwaukee Sentinel_02-11-1890_4.Pdf
-The Milwaukee Sentinel_08-16-1884_2.Pdf
-The Milwaukee Sentinel_08-17-1884_2.Pdf
-The Milwaukee Sentinel_08-18-1884_3.Pdf
-The Milwaukee Sentinel_09-08-1884_4.Pdf
-The Milwaukee Sentinel_11-29-1890_4 copy.Pdf
+The Galveston Daily News_09-02-1884.pdf
+The Milwaukee Sentinel_08-16-1884_2.pdf
+The Milwaukee Sentinel_08-17-1884_2.pdf
+The Milwaukee Sentinel_08-18-1884_3.pdf
+The Milwaukee Sentinel_09-08-1884_4.pdf
+The Milwaukee Sentinel_11-29-1890_4 copy.pdf
 The Nashville American_10-17-1900_5.pdf
-The News and Observer_08-28-1884.Pdf
-The North American_08-18-1884.Pdf
-The North American_08-28-1884.Pdf
-The Raleigh Register_08-20-1884.Pdf
+The News and Observer_08-28-1884.pdf
+The North American_08-18-1884.pdf
+The North American_08-28-1884.pdf
+The Raleigh Register_08-20-1884.pdf
 The Sun_09-03-1922_3.pdf
 The Sun_11-21-1919_10.pdf
-The_Camden_Chronicle_06-24-1892_1.pdf
-The_Columbia_Herald_05-20-1898_8.pdf
-The_Nashville_Globe_03-08-1907_5.pdf
-The_Sunny_South_03-08-1884_8.pdf
-The_Sunny_South_04-15-1886_5.pdf
-The_Sunny_South_08-06-1897_6.pdf
-The_Sunny_South_08-13-1881_7.pdf
-The_Sunny_South_10-24-1903_6.pdf
-The_Weekly_constitution_09-18-1884_7.pdf
 Vienna Progress_04-27-1899_3_1.pdf
-St. Louis Globe-Democrat_05-14-1887_8.Pdf
-The Galveston Daily News_02-13-1887_5.Pdf
-The Galveston Daily News_05-13-1887_6.Pdf
-St. Louis Globe-Democrat_04-27-1877_2.Pdf
-The Commerical Appeal_03-25-1896_3.Pdf
+St. Louis Globe-Democrat_05-14-1887_8.pdf
+The Galveston Daily News_02-13-1887_5.pdf
+The Galveston Daily News_05-13-1887_6.pdf
+St. Louis Globe-Democrat_04-27-1877_2.pdf
+The Commerical Appeal_03-25-1896_3.pdf
 Weekly Sun_08-16-1871_7.pdf
-The Daily Picayune_07-12-1887_4.Pdf
-Albany Weekly Herald_02-23-1901_6_3.pdf
-American Times Recorder_08-24-1899_4_4.pdf
-American Weekly Recorder_08-01-1884_1_5.pdf
-Americus Times Recorder_08-23-1898_64_2.pdf
+The Daily Picayune_07-12-1887_4.pdf
 Americus Times-Recorder_09-28-1906_1_2.pdf
 Athens Daily Herald_05-23-1918_1_5.pdf
 Bainbridge Democrat_03-12-1891_4_2.pdf
-Bainbridge Democrat_09-12-1895_2_1.pdf
-Daily Evening Bulletin_06-28-1878.Pdf
-Daily Evening Bulletin_08-17-1888_3.Pdf
-Daily Evening Bulletin_08-18-1888_2.Pdf
-Daily Evening Bulletin_09-30-1886_4.Pdf
-Daily Evening Bulletin_11-08-1890_2.Pdf
-Daily Evening Bulletin_12-01-1888_2.Pdf
-Daily Evening Bulletin_12-14-1886.Pdf
 Daily Times Enterprise_08-01-1920_6_3.pdf
 Daily Times Enterprise_11-04-1893_3_3.pdf
-Daily Times-Enterprise_02-17-1901_2_2.pdf
-Detroit Free Press_10-16-1896_8.pdf
-Georgia_Weekly_Opinion_10-01-1867_2.pdf
-Houston Home Journal_08-05-1897_2_2.pdf
-Milwaukee Daily Journal_02-13-1890.Pdf
-New York Times_06-12-1883_4.pdf
-New York Times_10-16-1896_17.pdf
-Rocky Mountain News_08-17-1884.Pdf
-Southwestern Christian Advocate_03-03-1881.pdf
-Southwestern Christian Advocate_08-14-1879.Pdf
-Southwestern Christian Advocate_08-21-1884_7.Pdf
-Southwestern Christian Advocate_08-28-1884.Pdf
-Southwestern Christian Advocate_08-28-1884_5.Pdf
-St. Louis Globe-Democrat_08-12-1884_6.Pdf
-St. Louis Globe-Democrat_08-17-1884_3.Pdf
-St. Louis Globe-Democrat_08-19-1884.Pdf
-St. Louis Globe-Democrat_11-06-1884_4.Pdf
-St_Laundy_Clarion_08-09-1910.pdf
-St_Tammany_Farmer_02-07-1903_4.pdf
 Sunny_South_04-24-1886_7.pdf
 Sunny_South_05-24-1884_4.pdf
-Sunny_South_05-26-1894_12.pdf
 Sunny_South_06-02-1894_12.pdf
 Sunny_South_06-04_1892_7.pdf
-The Afro-American_10-19-1895.Pdf
-The Afro-American_10-26-1895.Pdf
-The Americus Times-Recorder_02-24-1921_7_1.pdf
+The Afro-American_10-26-1895.pdf
 The Americus Times-Recorder_05-15-1900_1_5.pdf
-The Americus Times-Recorder_11-12-1895_1_7.pdf
-The Americus Weekly Recorder_08-19-1886_5_3.pdf
-The Americus Weekly Times_08-23-1899_7_3.pdf
 The Amricus Times-Recorder_04-25-1899_1_4.pdf
-The Atchinson Daily Globe_09-12-1885.Pdf
-The Atchison Daily Champion_03-13-1886.Pdf
-The Atchison Daily Globe_07-31-1888.Pdf
-The Atchison Daily Globe_08-05-1887.Pdf
-The Atchison Daily Globe_08-18-1888.Pdf
-The Atlanta Constitution_03-05-1909_11.pdf
-The Atlanta Constitution_09-11-1919_11.pdf
+The Atchinson Daily Globe_09-12-1885.pdf
 The Atlanta Constitution_09-26-1920.pdf
-The Atlanta Constitution_10-16-1896_1.pdf
-The Atlanta Constitution_10-28-1899_3.pdf
-The Atlanta Constitution_11-19-1920_4.pdf
 The Chicago Defender_05-24-1913_4.pdf
 The Chicago Defender_09-03-1927_1.pdf
 The Chicago Defender_12-24-1927_A2.pdf
-The Galveston Daily News_08-09-1879.Pdf
-The Macon Telegraph_08-20-1897_3.Pdf
-The Nashville American_10-16-1896_8.pdf
-The New York Amsterdam News_09-07-1927_1.pdf
-The New York Times_05-23-1899_8.pdf
-The News and Observer_10-10-1897_12.Pdf
-The Times of India_01-02-1913_11.pdf
-The Washington Post_01-31-1913_4.pdf
-The Washington Post_02-09-1890_4.pdf
-The Washington Post_06-19-1899.pdf
-The Washington Post_08-01-1906_3.pdf
-The Washington Post_09-05-1918_2.pdf
-The_Atlantian_01-16-1911_20.pdf
-The_Weekly_Democratic_Statesman_08-26-1875_2.pdf
-Wayross Evening Herald_04-16-1910_1_1.pdf
-St. Louis Globe-Democrat_11-02-1886_2-1.Pdf
+The Galveston Daily News_08-09-1879.pdf
+St. Louis Globe-Democrat_11-02-1886_2-1.pdf
 Knoxville_Chronicle_05-15-1879_1.pdf
 Public_Ledge_05-14-1879.pdf
 Austin Daily Statesman_06-29-1901_4.pdf
 Detroit Free Press_11-19-1920_4.pdf
-St. Louis Globe-Democrat_07-28-1878_10.Pdf
-St. Louis Globe-Democrat_09-12-1885.Pdf
-St. Louis Globe-Democrat_10-09-1880_10.pdf
-St. Louis Globe-Democrat_12-18-1886_6.Pdf
-Sunny_South_04-24-1886_7.pdf
-Sunny_South_05-24-1884_4.pdf
-Sunny_South_05-26-1894_12.pdf
-Sunny_South_06-02-1894_12.pdf
-Sunny_South_06-04_1892_7.pdf
-The Chicago Defender_05-24-1913_4.pdf
-The Chicago Defender_09-03-1927_1.pdf
-The Chicago Defender_12-24-1927_A2.pdf
-Afro-American_03-09-1935_5.pdf
-Afro-American_07-04-1925_A1.pdf
-Afro-American_07-15-1899_4.pdf
-Atlanta_Georgian_09-12-1906_3.pdf
-Atlanta_Georgian_and_News_09-20-1907_6.pdf
-Atlanta_Georgian_and_News_12-28-1909_5.pdf
-Atlanta_Weekly_Constitution_06-09-1885_12.pdf
-Atlanta_weekly_Sun_08-16-1871_7.pdf
-Atlantian_12-1911_20.pdf
-Boston Daily Advertiser_08-28-1884.Pdf
-Boston Daily Advertiser_08-28-1884_1.Pdf
-Century Illustrated Magazine_04-1885_909.pdf
-Chicago Daily Tribune_01-31-1913_8.pdf
-Chicago Daily Tribune_08-29-1927_1.pdf
-Chicago Daily Tribune_12-12-1912_9.pdf
-Daily Arkansas Gazette_05-14-1879_5.Pdf
-Daily Arkansas Gazette_05-15-1879.Pdf
-Daily Arkansas Gazette_05-20-1879_4.Pdf
-Daily Evening Bulletin_08-16-1884_4.Pdf
-Georgia Weekly Telegraph and Georgia Journal & Messenger_06-17-1879.Pdf
-Georgia Weekly Telegraph, Journal & Messenger_01-06-1882.Pdf
-Milwaukee Daily Journal_08-16-1884.Pdf
-New York Times_06-26-1909_2.pdf
-New York Times_11-19-1920_19.pdf
-New-York Tribute_11-19-1920_1.pdf
-Rocky Mountain News_08-16-1884.Pdf
+St. Louis Globe-Democrat_07-28-1878_10.pdf
+Daily Arkansas Gazette_05-14-1879_5.pdf
 The Athens Banner_02-8-1898_6_1.pdf
-The Atlanta Constitution_06-25-1909_5.pdf
-The Atlanta Constitution_06-26-1909_9.pdf
-The Nashville American_06-29-1901_2.pdf
-The North American_05-15-1879.Pdf
-The Sun_06-26-1909_11.pdf
-The_Pensacola_Journal_05-06-1909_4.pdf
-The_Pensacola_Journal_09-12-1907_3.pdf
-The_Pensacola_Journal_10-16-1910_10.pdf
-The_Pensacola_Journal_12-24-1909_1.pdf
-The_Pensacola_Journey_03-19-1905_12.pdf
-Weekly Register-Call_04-18-1879.Pdf
-Weekly Register-Call_05-16-1879.Pdf
-St. Louis Globe-Democrat_09-24-1883_8.Pdf
-St. Louis Globe-Democrat_05-03-1881_4.pdf
-St. Louis Globe-Democrat_09-19-1885_8.Pdf
-Houston Home Journal_05-07-1936_2.pdf
-The Butler Herald_04-30-1936_3.pdf
-The Butler Herald_04-30-1936_8.pdf
-Bradford_County_11-29-1895.pdf
-Bradford_County_Telegraph_09-13-1895.pdf
 Butler Herald_03-14-1940_8_1.pdf
-Daily Arkansas Gazette_05-25-1879_4.Pdf
-Daily Evening Bulletin_05-13-1879.Pdf
-Daily Evening Bulletin_06-28-1878.Pdf
-Daily Evening Bulletin_11-08-1890_2.Pdf
-Daily Rocky Mountain News_05-15-1879.Pdf
-Daily Rocky Mountain News_05-28-1879.Pdf
-Deland_News_01-22-1909.pdf
-Gainesville_Daily_Sun_01-16-1907_1.pdf
-Gainesville_Daily_Sun_09-16-1909.pdf
-Herald and Advertiser_02-01-1901_2_3.pdf
-Milwaukee Daily Sentinel_05-14-1879_8.Pdf
-Milwaukee Daily Sentinel_05-16-1879_2.Pdf
-Milwaukee Daily Sentinel_06-05-1879_3.Pdf
-Rocky Mountain News_06-08-1881_2.pdf
-Rocky Mountain News_07-30-1895_8.Pdf
-Rocky Mountain News_08-30-1891_12.Pdf
-Semi-Weekly Inter Ocean_05-05-1879.Pdf
-Southwestern Christian Advocate_08-02-1894_4.Pdf
-Southwestern Christian Advocate_08-07-1879.Pdf
-Southwestern Christian Advocate_08-08-1889_4.Pdf
-Southwestern Christian Advocate_09-12-1895.Pdf
-Southwestern Christian Advocate_10-11-1883_4.Pdf
-Southwestern Christian Advocate_10-14-1886_5.Pdf
-Southwestern Christian Advocate_10-27-1887.Pdf
-Southwestern Christian Advocate_10-29-1885_4.Pdf
-Southwestern Christian Advocate_12-08-1887_5.Pdf
-St. Louis Globe-Democrat_02-28-1881_4.pdf
-St. Louis Globe-Democrat_03-06-1879_2.Pdf
-St. Louis Globe-Democrat_05-14-1879.Pdf
-St. Louis Globe-Democrat_05-15-1879.Pdf
-St. Louis Globe-Democrat_06-05-1885.Pdf
-St. Louis Globe-Democrat_07-28-1878_10.Pdf
+Daily Rocky Mountain News_05-15-1879.pdf
 The Athens Banner_02-18-1898_6_1.pdf
-The Daily Register-Call_05-14-1879.Pdf
-The Daily Register-Call_05-14_1879.Pdf
-The Galveston Daily News_05-14-1879.Pdf
-The Galveston Daily News_05-15-1879.Pdf
-The Galveston Daily News_05-18-1879.Pdf
-The_Butler_Herald_03-02-1916_3_2.pdf
-The_Butler_Herald_05-23-1918_1_2.pdf
-The_Home_Journal_03-10-1921_8_1.pdf
-The_Ocala_Banner_02-20-1903.pdf
-The_Ocala_Banner_04-16-1909.pdf
-The_Ocala_Banner_07-29-1902.pdf
-The_Ocala_Evening_Star_12-14-1912_2.pdf
-The_Palatka_Daily_News_01-03-1888.pdf
-The_Palatka_Daily_News_12-31-1886_1.pdf
-The_Palatka_News_and_Advertiser_03-04-1904_1.pdf
-The_Palatka_News_and_Advertiser_08-07-1902.pdf
-The_Pensacola_Journal_01-17-1909_1.pdf
+The Daily Register-Call_05-14-1879.pdf
 New-York Tribute_09-26-1906_9.pdf
 The Altanta Constitution_09-25-1906_1_1.pdf
 The Atlanta Constitution_09-25-1906_1.pdf
