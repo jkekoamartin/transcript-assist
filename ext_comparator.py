@@ -75,7 +75,6 @@ class Search:
         # drop ext, so we can compare with search for docs
         to_search_paths = []
 
-
         for item in search_files:
             p = Path(item)
             item = str(p.stem)
@@ -175,22 +174,27 @@ class Search:
             print("This prevents clutter, but to keep snapshots of the results, just move them out of the directory "
                   "they are in. This will prevent the program from overwriting them with new ones!")
 
-    def to_trash(self):
-        trash_items = self.result_paths
-        p = Path(self.search_paths).absolute()
-        p = Path(*p.parts[:len(p.parts) - 1]).joinpath("trash")
-        if p.exists():
-            pass
+    def move(self, output=None):
+        if output is None:
+            p = Path(self.search_paths).absolute()
+            p2 = Path(*p.parts[:len(p.parts) - 1]).joinpath("ext_comparator_OUTPUT")
+            if p2.exists():
+                pass
+            else:
+                p2.mkdir(True, True)
         else:
-            p.mkdir(True, True)
+            p = Path(output).absolute()
+            p2 = Path(*p.parts[:len(p.parts) - 1]).joinpath("OUTPUT")
 
-        for each in trash_items.duplicates:
-            f = Path(trash_items.duplicates[each]).absolute()
+        result_paths = self.result_paths
+
+        for each in result_paths.duplicates:
+            f = Path(result_paths.duplicates[each]).absolute()
 
             # print(trash_items.trash[each])
             if f.exists():
-                f.joinpath("dupedagain")
-                shutil.copy(str(f), str(p))
+                p2.joinpath("duplicate")
+                shutil.copy(str(f), str(p2))
             else:
                 shutil.copy(str(f), str(p))
         print("Files moved to duplicates folder in output (trash folder just outside working directory).")
@@ -211,7 +215,7 @@ def run_default(in_ext_1, in_ext_2, in_search_path):
     # print confirmation to move to trash
     in_search.confirm()
     # move to trash
-    # in_search.to_trash()
+    in_search.move()
 
 
 if __name__ == "__main__":
