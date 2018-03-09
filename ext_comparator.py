@@ -25,7 +25,7 @@ class Paths:
 class Search:
 
     # by default, output path is the same directory that script is located in
-    def __init__(self, s_ext_1, s_ext_2, s_search_paths, output_path=os.getcwd()):
+    def __init__(self, s_ext_1, s_ext_2, s_search_paths, output=os.getcwd()):
 
         self.ext_1 = s_ext_1
         self.ext_2 = s_ext_2
@@ -33,7 +33,7 @@ class Search:
         # this is now a list of paths
         self.search_paths = s_search_paths
 
-        self.output_path = output_path
+        self.output_path = output
 
         self.result_paths = Paths()
 
@@ -151,25 +151,27 @@ class Search:
             pass
         elif command is "n":
             print("Okay, no changes have been made. You can check output.csv to see what files were duplicates. "
-                      "Exiting program")
+                  "Exiting program")
             sys.exit()
         else:
             print("Please input 'y' or 'n'")
             self.confirm()
 
         print("Check the outputs 'complete.csv' and 'incomplete.csv' to see which " + str(self.ext_1) + "s have " +
-                  str(self.ext_2)
-                  + " "
-                    "matches! They are stored in the directory being searched so that they don't get lost!")
+              str(self.ext_2)
+              + " "
+                "matches! They are stored in the directory being searched so that they don't get lost!")
         print()
         print("***Important*** The outputs 'complete.csv' and 'incomplete.csv' are overwritten each time the "
-                  "program is run.")
+              "program is run.")
         print("This prevents clutter, but to keep snapshots of the results, just move them out of the directory "
-                  "they are in. This will prevent the program from overwriting them with new ones!")
+              "they are in. This will prevent the program from overwriting them with new ones!")
+
+        print("WARNING - DATA TRANSFER IN PROGRESS! PLEASE WAIT FOR PROGRAM TO FINISH")
 
     def move(self, output=None):
         if output is None:
-            p = Path(self.search_paths).absolute()
+            p = Path(self.search_paths[0]).absolute()
             p2 = Path(*p.parts[:len(p.parts) - 1]).joinpath("ext_comparator_OUTPUT")
             if p2.exists():
                 pass
@@ -177,27 +179,54 @@ class Search:
                 p2.mkdir(True, True)
         else:
             p = Path(output).absolute()
+
+            # this is one level above p
             p2 = Path(*p.parts[:len(p.parts) - 1]).joinpath("OUTPUT")
+
+        p3 = p2.joinpath("incomplete")
+        if p3.exists():
+            pass
+        else:
+            p3.mkdir(True, True)
+
+        p4 = p2.joinpath("complete")
+        if p4.exists():
+            pass
+        else:
+            p4.mkdir(True, True)
+
+        p5 = p2.joinpath("duplicates")
+        if p5.exists():
+            pass
+        else:
+            p5.mkdir(True, True)
 
         result_paths = self.result_paths
 
+        for each in result_paths.incomplete:
+            f = Path(result_paths.incomplete[each]).absolute()
+
+            # print(trash_items.trash[each])
+            shutil.copy(str(f), str(p3))
+
+        for each in result_paths.complete:
+            f = Path(result_paths.complete[each]).absolute()
+
+            shutil.copy(str(f), str(p4))
 
         # this copies the duplicates into a duplicate folder in output
         for each in result_paths.duplicates:
             f = Path(result_paths.duplicates[each]).absolute()
 
             # print(trash_items.trash[each])
-            if f.exists():
-                p2.joinpath("duplicate")
-                shutil.copy(str(f), str(p2))
-            else:
-                shutil.copy(str(f), str(p))
+            shutil.copy(str(f), str(p5))
+
         print("Files moved to duplicates folder in output (trash folder just outside working directory).")
 
 
 # this runs default program arguments
-def run_default(in_ext_1, in_ext_2, in_search_path):
-    in_search = Search(in_ext_1, in_ext_2, in_search_path)
+def run_default(in_ext_1, in_ext_2, in_search_path, output=os.getcwd()):
+    in_search = Search(in_ext_1, in_ext_2, in_search_path, output)
     # search all directories for a search file name, or check flag for batch search
     # regardless of extension.
     # store paths in dictionary
@@ -210,6 +239,8 @@ def run_default(in_ext_1, in_ext_2, in_search_path):
     in_search.confirm()
     # move to trash
     in_search.move()
+
+    print()
 
 
 if __name__ == "__main__":
@@ -234,13 +265,13 @@ if __name__ == "__main__":
 
     # this is a run mode for two search directories. The code can take any mount of search paths, but it would be messy
     # to pass in more than two path via terminal
-    elif len(sys.argv[1:]) == 4:
-        ext_1, ext_2, search_path_1, search_path_2 = sys.argv[1:]
+    elif len(sys.argv[1:]) == 5:
+        ext_1, ext_2, search_path_1, search_path_2, output_path = sys.argv[1:]
         print("Searching for " + ext_1 + ", " + ext_2 + " pairs" + "in " + search_path_1 + " and " + search_path_2)
 
         search_paths = [search_path_1, search_path_2]
 
-        run_default(str(ext_1), str(ext_2), search_paths)
+        run_default(str(ext_1), str(ext_2), search_paths, output_path)
 
     else:
         print("Invalid number of arguments passed. Please input: 'ext1 ext2 searchdirectory', or run with out "
